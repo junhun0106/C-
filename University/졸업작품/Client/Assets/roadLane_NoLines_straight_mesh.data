@@ -1,0 +1,31 @@
+[FBX_META_DATA]
+MeshCount: 1
+
+[MESH_DATA]
+VertexCount: 4
+IndexCount: 6
+BoneCount: 0
+AnimationClips: 0
+
+[VERTEX_DATA]
+Position: -0 -0.194796 0
+Normal: -0 1 2.91548e-016
+UV: 0.781877 0.0916044
+
+Position: -4.99999 -0.194796 0
+Normal: -0 1 0
+UV: 0.781876 0.0916044
+
+Position: -0 -0.194796 -7
+Normal: -0 1 0
+UV: 0.781876 0.0916044
+
+Position: -4.99999 -0.194796 -7
+Normal: -0 1 2.42312e-017
+UV: 0.781876 0.0916044
+
+
+[INDEX_DATA]
+0 2 1
+1 2 3
+

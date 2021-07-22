@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\0. Main">
+      <UniqueIdentifier>{d5860fcb-feee-4bb5-a9b2-527db217d308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1. Framework">
+      <UniqueIdentifier>{01147be5-c9ee-4421-8124-181720047249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager">
+      <UniqueIdentifier>{bb4553cd-5f11-424b-a171-b9637d67dfda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\1. Scene">
+      <UniqueIdentifier>{44284f5d-6659-42c4-b4a7-adb21065c033}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\2. GameObject">
+      <UniqueIdentifier>{6ddca303-c62c-4a1e-a093-792232374a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\2. GameObject\00. Mesh">
+      <UniqueIdentifier>{562fd8a0-95f9-4dab-a4c5-780be0a9bfa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\0. GameTimer">
+      <UniqueIdentifier>{72094980-a720-47a1-97d1-10aa1fbc5748}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\3. Camera">
+      <UniqueIdentifier>{a5c2f8bf-6e2d-4dab-93c9-b5c5ecdbc5d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\4. Player">
+      <UniqueIdentifier>{015888aa-ca1d-455d-923e-f2691e895986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\10. Shader">
+      <UniqueIdentifier>{bef43592-9c1e-48bb-8d6a-f1e34b28c953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2. Manager\11. ShaderFile">
+      <UniqueIdentifier>{354c10a6-242c-48f6-b38e-c49a27bcc7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3. Network">
+      <UniqueIdentifier>{49c3bd83-098d-49d6-b1a9-588f646d1995}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4. SpacePartition">
+      <UniqueIdentifier>{ba6d9ff0-f548-4ff9-abe1-06adc6a0deff}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="LabProject14.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Effect.fx">
+      <Filter>소스 파일\2. Manager\11. ShaderFile</Filter>
+    </None>
+    <None Include="fxcc.bat">
+      <Filter>소스 파일\2. Manager\11. ShaderFile</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>소스 파일\2. Manager\2. GameObject\00. Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>소스 파일\2. Manager\3. Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\2. Manager\1. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFramework.h">
+      <Filter>소스 파일\1. Framework</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>소스 파일\2. Manager\0. GameTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>소스 파일\0. Main</Filter>
+    </ClInclude>
+    <ClInclude Include="LabProject14.h">
+      <Filter>소스 파일\0. Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>소스 파일\2. Manager\4. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>소스 파일\2. Manager\10. Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>소스 파일\2. Manager\2. GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ConnectServer.h">
+      <Filter>소스 파일\3. Network</Filter>
+    </ClInclude>
+    <ClInclude Include="SpacePartition.h">
+      <Filter>소스 파일\4. SpacePartition</Filter>
+    </ClInclude>
+    <ClInclude Include="SkinnedMesh.h">
+      <Filter>소스 파일\2. Manager\2. GameObject\00. Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerObject.h">
+      <Filter>소스 파일\2. Manager\2. GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowMap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>소스 파일\2. Manager\2. GameObject\00. Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>소스 파일\2. Manager\3. Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일\2. Manager\1. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFramework.cpp">
+      <Filter>소스 파일\1. Framework</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>소스 파일\2. Manager\0. GameTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일\0. Main</Filter>
+    </ClCompile>
+    <ClCompile Include="LabProject14.cpp">
+      <Filter>소스 파일\0. Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일\2. Manager\4. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>소스 파일\2. Manager\10. Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>소스 파일\2. Manager\2. GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ConnectServer.cpp">
+      <Filter>소스 파일\3. Network</Filter>
+    </ClCompile>
+    <ClCompile Include="SpacePartition.cpp">
+      <Filter>소스 파일\4. SpacePartition</Filter>
+    </ClCompile>
+    <ClCompile Include="SkinnedMesh.cpp">
+      <Filter>소스 파일\2. Manager\2. GameObject\00. Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerObject.cpp">
+      <Filter>소스 파일\2. Manager\2. GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowMap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LabProject14.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="lobby_c.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

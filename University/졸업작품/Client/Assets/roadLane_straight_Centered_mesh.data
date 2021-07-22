@@ -1,0 +1,107 @@
+[FBX_META_DATA]
+MeshCount: 1
+
+[MESH_DATA]
+VertexCount: 20
+IndexCount: 42
+BoneCount: 0
+AnimationClips: 0
+
+[VERTEX_DATA]
+Position: -3.51846 0 -0.444885
+Normal: -0 1 0
+UV: 0.725792 0.252137
+
+Position: -3.51846 0 -6.55511
+Normal: -0 1 0
+UV: 0.725792 0.244923
+
+Position: -1.48153 0 -0.444885
+Normal: -0 1 0
+UV: 0.725792 0.24535
+
+Position: -1.48153 0 -6.55511
+Normal: -0 1 0
+UV: 0.725792 0.25074
+
+Position: -4.99999 0 -7
+Normal: -0 1 2.42312e-017
+UV: 0.725792 0.209106
+
+Position: -3.51846 0 -7
+Normal: -0 1 0
+UV: 0.725792 0.235811
+
+Position: -0 0 0
+Normal: -0 1 2.91548e-016
+UV: 0.725792 0.209106
+
+Position: -1.48153 0 0
+Normal: -0 1 0
+UV: 0.725792 0.234919
+
+Position: -0 0 -7
+Normal: -0 1 2.42312e-017
+UV: 0.725792 0.209106
+
+Position: -1.48153 0 -7
+Normal: -0 1 0
+UV: 0.725792 0.243172
+
+Position: -4.99999 0 0
+Normal: -0 1 2.91548e-016
+UV: 0.725792 0.209106
+
+Position: -3.51846 0 0
+Normal: -0 1 0
+UV: 0.725792 0.243478
+
+Position: -1.48153 0 0
+Normal: -0 1 0
+UV: 0.710584 0.734205
+
+Position: -3.51846 0 0
+Normal: -0 1 0
+UV: 0.710584 0.492291
+
+Position: -1.48153 0 -0.444885
+Normal: -0 1 0
+UV: 0.657572 0.734205
+
+Position: -3.51846 0 -0.444885
+Normal: -0 1 0
+UV: 0.657572 0.492291
+
+Position: -3.51846 0 -7
+Normal: -0 1 0
+UV: 0.710584 0.734205
+
+Position: -1.48153 0 -7
+Normal: -0 1 0
+UV: 0.710584 0.492291
+
+Position: -3.51846 0 -6.55511
+Normal: -0 1 0
+UV: 0.657572 0.734205
+
+Position: -1.48153 0 -6.55511
+Normal: -0 1 0
+UV: 0.657572 0.492291
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+1 5 4
+2 7 6
+2 6 3
+6 8 3
+8 9 3
+10 0 4
+0 1 4
+10 11 0
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+

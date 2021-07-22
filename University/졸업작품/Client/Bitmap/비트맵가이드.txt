@@ -1,0 +1,38 @@
+생성 예제
+
+//폰트생성
+m_pdwFactory->CreateTextFormat(L"맑은고딕", nullptr, DWRITE_FONT_WEIGHT_EXTRA_BLACK, DWRITE_FONT_STYLE_NORMAL, DWRITE_FONT_STRETCH_MEDIUM, 32.0f, L"ko-ko", &m_dwExplainFormat);
+m_pdwFactory->CreateTextFormat(L"맑은고딕", nullptr, DWRITE_FONT_WEIGHT_EXTRA_BLACK, DWRITE_FONT_STYLE_NORMAL, DWRITE_FONT_STRETCH_NORMAL, 15.0f, L"ko-ko", &m_dwMyChattingFormat);
+	
+//비트맵 생성 : bool변수로 성공여부 확인 가능
+bool b_result = false;
+m_nBitmaps = 11;
+m_ppd2dBitmap = new ID2D1Bitmap1*[m_nBitmaps];
+b_result = LoadImageFromFile(L"Image/Bitmap/logo.png", &m_ppd2dBitmap[BITMAP::LOGO], nullptr, 0, 0, WICBitmapTransformRotate0);
+b_result = LoadImageFromFile(L"Image/Bitmap/button_on.jpg", &m_ppd2dBitmap[BITMAP::LobbyStartOff], nullptr, 0, 0, WICBitmapTransformRotate0);
+
+//Rectangle(사각형), ColorBrush(색깔)
+m_pd2dFactory->CreateRectangleGeometry(D2D1::RectF(0, 0, 350, 450), &m_pd2drcBox);
+m_pd2dContext->CreateSolidColorBrush(D2D1::ColorF(D2D1::ColorF::Beige, 0.5f), &m_pd2dsbrBeige);
+
+
+
+
+그리기 예제
+
+
+m_pd2dContext->BeginDraw();
+
+D2D1::Matrix3x2F mtx = D2D1::Matrix3x2F::Identity();
+m_pd2dContext->SetTransform(mtx);
+m_pd2dContext->DrawBitmap(m_ppd2dBitmap[0], D2D1::RectF(0.f, 0.f, m_nWndClientWidth / 3, m_nWndClientHeight / 3), 0.9f);
+			
+m_pd2dContext->DrawBitmap(m_ppd2dBitmap[1], D2D1::RectF(0.f, 0.f, 288, 60), 0.7f);
+
+mtx = D2D1::Matrix3x2F::Translation(m_nWndClientWidth - 300, m_nWndClientHeight - 200);
+			
+m_pd2dContext->SetTransform(mtx);
+	
+m_pd2dContext->DrawBitmap(m_ppd2dBitmap[BITMAP::LobbyStartOn], D2D1::RectF(0.f, 0.f, 288, 60), 0.7f);
+			
+m_pd2dContext->DrawBitmap(m_ppd2dBitmap[BITMAP::LobbyStartOff], D2D1::RectF(0.f, 0.f, 288, 60), 0.7f);

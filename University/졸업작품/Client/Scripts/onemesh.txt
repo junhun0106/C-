@@ -1,0 +1,38 @@
+Building_AutoRepair				
+18	0	34	180	3
+Building_House_01				
+95	0	31	180	1
+Building_Mall_A				
+100	0	100	0	1
+Building_PizzaShop				
+80	0	67	270	3
+Building_Shop_03				
+66	0	85	90	0
+Building_StripClub				
+34	0	85	270	1
+car_seperate_mesh				
+33	0	45	270	3
+flag_mesh				
+13	0	79	90	3
+flower_mesh				
+89	0	14	0	2
+grass_square_mesh				
+60	0	60	0	2
+office_medium_mesh				
+89	0	75	270	0
+Prop_Beachseat_01				
+80	0	92	0	3
+road_bend_left_mesh				
+60	0	40	270	2
+road_bend_right_mesh				
+60	0	60	270	2
+road_Roundabout				
+85	0	85	0	3
+fence_short_mesh				
+33	0	83	90	0
+Prop_Roadsign_01				
+58	0	60	180	3
+Prop_Roadsign_02				
+59	0	42	270	3
+Prop_Umbrella_01				
+65	0	12	0	3

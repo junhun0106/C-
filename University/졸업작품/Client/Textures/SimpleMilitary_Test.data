@@ -1,0 +1,8765 @@
+[FBX_META_DATA]
+MeshCount: 21
+
+[MESH_DATA]
+VertexCount: 505
+IndexCount: 828
+BoneCount: 18
+AnimationClips: 1
+
+[VERTEX_DATA]
+Position: -35.7739 50.933 -16.0933
+Normal: -0.999913 5.96142e-005 -0.0131921
+UV: 0.264069 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1938 50.9323 15.7287
+Normal: -0.999913 5.98463e-005 -0.0131921
+UV: 0.328567 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7715 91.6085 -16.0924
+Normal: -0.999913 5.98679e-005 -0.0131921
+UV: 0.264069 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1913 91.6079 15.7296
+Normal: -0.999913 6.01285e-005 -0.013192
+UV: 0.328567 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.0861 96.1276 7.7742
+Normal: -0.00646409 0.869492 0.493905
+UV: 0.39202 0.572935
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1913 91.6079 15.7296
+Normal: -0.00646413 0.869492 0.493905
+UV: 0.39202 0.55681
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.58453 96.126 8.13703
+Normal: -0.00646424 0.869492 0.493904
+UV: 0.336279 0.572935
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.68975 91.6062 16.0924
+Normal: -0.00646428 0.869492 0.493904
+UV: 0.336279 0.55681
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.26992 91.6069 -15.7296
+Normal: 0.999913 -5.98085e-005 0.013192
+UV: 0.208328 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.68975 91.6062 16.0924
+Normal: 0.999913 -5.9804e-005 0.013192
+UV: 0.14383 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.27234 50.9314 -15.7305
+Normal: 0.999913 -5.97984e-005 0.013192
+UV: 0.208328 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.69217 50.9307 16.0916
+Normal: 0.999913 -5.97861e-005 0.0131921
+UV: 0.14383 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.69217 50.9307 16.0916
+Normal: -5.94961e-005 -1 -2.18908e-005
+UV: 0.0237921 0.625687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1938 50.9323 15.7287
+Normal: -5.94962e-005 -1 -2.18295e-005
+UV: 0.0795331 0.625687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.27234 50.9314 -15.7305
+Normal: -5.94962e-005 -1 -2.1817e-005
+UV: 0.0237921 0.561189
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 50.933 -16.0933
+Normal: -5.94962e-005 -1 -2.17557e-005
+UV: 0.0795331 0.561189
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.68975 91.6062 16.0924
+Normal: -0.0131921 -2.09717e-005 0.999913
+UV: 0.14383 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1913 91.6079 15.7296
+Normal: -0.0131921 -2.09803e-005 0.999913
+UV: 0.088089 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.69217 50.9307 16.0916
+Normal: -0.013192 -2.09857e-005 0.999913
+UV: 0.14383 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.1938 50.9323 15.7287
+Normal: -0.013192 -2.09943e-005 0.999913
+UV: 0.088089 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 50.933 -16.0933
+Normal: 0.013192 2.1019e-005 -0.999913
+UV: 0.264069 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7715 91.6085 -16.0924
+Normal: 0.0131919 2.10188e-005 -0.999913
+UV: 0.264069 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.27234 50.9314 -15.7305
+Normal: 0.013192 2.10189e-005 -0.999913
+UV: 0.208328 0.630832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.26992 91.6069 -15.7296
+Normal: 0.0131919 2.10187e-005 -0.999913
+UV: 0.208328 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.8762 96.128 -8.13683
+Normal: 5.96332e-005 1 2.11979e-005
+UV: 0.39202 0.605183
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.0861 96.1276 7.7742
+Normal: 5.96332e-005 1 2.14918e-005
+UV: 0.39202 0.572935
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.37461 96.1263 -7.774
+Normal: 5.96332e-005 1 2.17842e-005
+UV: 0.336279 0.605183
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.58453 96.126 8.13703
+Normal: 5.96332e-005 1 2.20782e-005
+UV: 0.336279 0.572935
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7715 91.6085 -16.0924
+Normal: 0.00656782 0.869512 -0.493868
+UV: 0.39202 0.621307
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.8762 96.128 -8.13683
+Normal: 0.0065678 0.869513 -0.493867
+UV: 0.39202 0.605183
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.26992 91.6069 -15.7296
+Normal: 0.00656776 0.869513 -0.493866
+UV: 0.336279 0.621307
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.37461 96.1263 -7.774
+Normal: 0.00656775 0.869513 -0.493866
+UV: 0.336279 0.605183
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.8762 96.128 -8.13683
+Normal: -0.999913 5.81817e-005 -0.013192
+UV: 0.280194 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -36.0861 96.1276 7.7742
+Normal: -0.999913 5.94077e-005 -0.0131922
+UV: 0.312442 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.37461 96.1263 -7.774
+Normal: 0.999913 -5.91955e-005 0.013192
+UV: 0.192204 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -8.58453 96.126 8.13703
+Normal: 0.999913 -5.98086e-005 0.0131921
+UV: 0.159955 0.548397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87979 54.1563 14.6094
+Normal: 0.999989 5.73123e-005 0.0047417
+UV: 0.185857 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87756 15.2816 14.6102
+Normal: 0.999989 5.73164e-005 0.0047417
+UV: 0.185857 0.986158
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.74179 54.1557 -14.4932
+Normal: 0.999989 5.73344e-005 0.00474171
+UV: 0.126902 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.73956 15.281 -14.4924
+Normal: 0.999989 5.73328e-005 0.0047417
+UV: 0.126902 0.986159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5992 60.4226 -8.60034
+Normal: 0.00338022 0.692122 -0.721773
+UV: 0.0766057 0.889762
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.77065 60.424 -8.48271
+Normal: 0.00338446 0.692113 -0.721781
+UV: 0.126918 0.889767
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5704 54.1543 -14.6111
+Normal: 0.00338137 0.69212 -0.721775
+UV: 0.0766087 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.74179 54.1557 -14.4932
+Normal: 0.00338562 0.692111 -0.721783
+UV: 0.126902 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7086 54.1549 14.4918
+Normal: -0.999989 -7.89602e-005 -0.00474819
+UV: 0.0176396 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.6805 60.423 8.48079
+Normal: -0.999989 -7.47163e-005 -0.00474933
+UV: 0.0298216 0.894657
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5704 54.1543 -14.6111
+Normal: -0.999989 -4.58584e-005 -0.00475704
+UV: 0.0766087 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5992 60.4226 -8.60034
+Normal: -0.999989 -1.82416e-005 -0.00476443
+UV: 0.0644376 0.894651
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5682 15.2795 -14.6102
+Normal: 5.72472e-005 -1 2.08704e-005
+UV: 0.245552 0.985351
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.73956 15.281 -14.4924
+Normal: 5.72642e-005 -1 2.09051e-005
+UV: 0.245567 0.935031
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7064 15.2801 14.4926
+Normal: 5.72681e-005 -1 2.09129e-005
+UV: 0.304531 0.985353
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87756 15.2816 14.6102
+Normal: 5.72851e-005 -1 2.09476e-005
+UV: 0.304522 0.93503
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87756 15.2816 14.6102
+Normal: -0.0047381 2.07527e-005 0.999989
+UV: 0.185857 0.986158
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87979 54.1563 14.6094
+Normal: -0.00473796 2.07213e-005 0.999989
+UV: 0.185857 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7064 15.2801 14.4926
+Normal: -0.00473802 2.07349e-005 0.999989
+UV: 0.236164 0.986158
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7086 54.1549 14.4918
+Normal: -0.00473788 2.07035e-005 0.999989
+UV: 0.236164 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5704 54.1543 -14.6111
+Normal: 0.00474576 -2.07516e-005 -0.999989
+UV: 0.0766087 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.74179 54.1557 -14.4932
+Normal: 0.00474574 -2.0734e-005 -0.999989
+UV: 0.126902 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5682 15.2795 -14.6102
+Normal: 0.00474573 -2.07205e-005 -0.999989
+UV: 0.0766087 0.986159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.73956 15.281 -14.4924
+Normal: 0.00474571 -2.07029e-005 -0.999989
+UV: 0.126902 0.986159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7086 54.1549 14.4918
+Normal: -0.00345894 0.692153 0.721743
+UV: 0.236164 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.87979 54.1563 14.6094
+Normal: -0.0034636 0.692143 0.721752
+UV: 0.185857 0.907365
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.6805 60.423 8.48079
+Normal: -0.00346021 0.69215 0.721745
+UV: 0.236153 0.88976
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.85165 60.4244 8.59862
+Normal: -0.00346488 0.69214 0.721754
+UV: 0.185836 0.88976
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.6805 60.423 8.48079
+Normal: -5.72087e-005 1 -2.06491e-005
+UV: 0.297591 0.925773
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.85165 60.4244 8.59862
+Normal: -5.7114e-005 1 -2.06949e-005
+UV: 0.247273 0.925762
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5992 60.4226 -8.60034
+Normal: -5.71498e-005 1 -2.06776e-005
+UV: 0.297591 0.891152
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.77065 60.424 -8.48271
+Normal: -5.70551e-005 1 -2.07234e-005
+UV: 0.247272 0.891145
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.5682 15.2795 -14.6102
+Normal: -0.999989 -5.73027e-005 -0.00474832
+UV: 0.0766087 0.986159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -34.7064 15.2801 14.4926
+Normal: -0.999989 -5.73868e-005 -0.00474827
+UV: 0.0176396 0.986159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.77065 60.424 -8.48271
+Normal: 0.999989 5.79309e-005 0.00474177
+UV: 0.139071 0.894648
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -9.85165 60.4244 8.59862
+Normal: 0.999989 5.75744e-005 0.00474171
+UV: 0.173688 0.894646
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 22.4052
+Normal: 1 1.47257e-007 -5.11723e-008
+UV: 0.325914 0.685925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 -12.3092
+Normal: 1 7.51655e-008 9.90316e-009
+UV: 0.396268 0.685924
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 12.3092
+Normal: 1 7.27363e-008 -3.00143e-008
+UV: 0.346375 0.654957
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 -12.3092
+Normal: 1 -3.11743e-008 3.62184e-008
+UV: 0.396268 0.654957
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 -12.3092
+Normal: 7.03922e-006 0.678999 -0.734139
+UV: 0.219061 0.689178
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 -12.3094
+Normal: -1.0657e-006 0.679015 -0.734124
+UV: 0.219061 0.648399
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 -7.22469
+Normal: 4.6612e-006 0.679004 -0.734134
+UV: 0.234236 0.689177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2824 20.778 -7.22459
+Normal: -3.44354e-006 0.67902 -0.73412
+UV: 0.234236 0.6484
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 -2.21812e-006 22.4051
+Normal: -1 9.20493e-006 -5.49439e-006
+UV: 0.244103 0.687282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 12.3094
+Normal: -1 7.38554e-006 -4.4084e-006
+UV: 0.264564 0.656314
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 -2.21812e-006 -12.3094
+Normal: -1 4.00874e-006 -2.3928e-006
+UV: 0.314457 0.687281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 -12.3094
+Normal: -1 0 0
+UV: 0.314457 0.656314
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 -12.3092
+Normal: 0 -1 -1.0418e-014
+UV: 0.188095 0.689176
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 22.4052
+Normal: 0 -1 -1.44871e-015
+UV: 0.117741 0.689175
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 -2.21812e-006 -12.3094
+Normal: 0 -1 -5.9121e-015
+UV: 0.188095 0.648401
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 -2.21812e-006 22.4051
+Normal: 0 -1 3.05703e-015
+UV: 0.117741 0.648402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 22.4052
+Normal: -4.76486e-006 0 1
+UV: 0.117741 0.689175
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 22.4052
+Normal: -4.76486e-006 0 1
+UV: 0.0867733 0.689179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 -2.21812e-006 22.4051
+Normal: -4.76486e-006 0 1
+UV: 0.117741 0.648402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 15.2805 22.4051
+Normal: -4.76486e-006 0 1
+UV: 0.0867733 0.648397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 -2.21812e-006 -12.3094
+Normal: 9.52981e-006 0 -1
+UV: 0.188095 0.648401
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 -12.3094
+Normal: 9.52981e-006 0 -1
+UV: 0.219061 0.648399
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 -2.21812e-006 -12.3092
+Normal: 9.52981e-006 0 -1
+UV: 0.188095 0.689176
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 -12.3092
+Normal: 9.52981e-006 0 -1
+UV: 0.219061 0.689178
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2822 20.778 7.22459
+Normal: -3.54486e-006 0.67902 0.734119
+UV: 0.0512323 0.648385
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 12.3094
+Normal: -1.14398e-006 0.679016 0.734124
+UV: 0.0663522 0.648387
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 7.22469
+Normal: 4.63824e-006 0.679004 0.734134
+UV: 0.0512322 0.689192
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 12.3092
+Normal: 7.03923e-006 0.679 0.734139
+UV: 0.0663522 0.68919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2822 20.778 7.22459
+Normal: 0 1 2.88916e-008
+UV: 0.0512323 0.648385
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 7.22469
+Normal: 0 1 1.14556e-008
+UV: 0.0512322 0.689192
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2824 20.778 -7.22459
+Normal: 0 1 1.74354e-008
+UV: 0.0219892 0.648393
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 -7.22469
+Normal: 0 1 0
+UV: 0.0219892 0.689184
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 15.2805 22.4051
+Normal: -1 0 -1.88928e-005
+UV: 0.244103 0.656314
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2823 15.2805 12.3094
+Normal: 0 1 3.00503e-007
+UV: 0.0663522 0.648387
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2825 15.2805 22.4051
+Normal: 0 1 2.07522e-007
+UV: 0.0867733 0.648397
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 12.3092
+Normal: 0 1 7.94605e-008
+UV: 0.0663522 0.68919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 22.4052
+Normal: 0 1 -1.35118e-008
+UV: 0.0867733 0.689179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 15.2805 22.4052
+Normal: 1 0 -1.88923e-007
+UV: 0.325914 0.654957
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2822 20.778 7.22459
+Normal: -1 1.37519e-005 9.64383e-007
+UV: 0.274868 0.645171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -32.2824 20.778 -7.22459
+Normal: -1 -2.91985e-005 1.32004e-005
+UV: 0.304153 0.645171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 -7.22469
+Normal: 1 -9.60463e-008 0
+UV: 0.385964 0.643814
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -12.1637 20.778 7.22469
+Normal: 1 -4.2505e-007 3.5908e-008
+UV: 0.35668 0.643814
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9771 50.9311 -15.9171
+Normal: 1 -9.05278e-006 -0.000320161
+UV: 0.269983 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9775 91.6066 -15.9168
+Normal: 1 -9.04293e-006 -0.000320161
+UV: 0.269983 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9873 50.9309 15.9078
+Normal: 1 -9.01504e-006 -0.000320161
+UV: 0.205485 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9877 91.6064 15.908
+Normal: 1 -8.94488e-006 -0.000320159
+UV: 0.205485 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9852 96.126 7.95183
+Normal: 0.000166096 0.8695 0.493932
+UV: 0.0209821 0.479265
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48113 96.1263 7.96064
+Normal: 0.00016615 0.8695 0.493934
+UV: 0.076723 0.479265
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9877 91.6064 15.908
+Normal: 0.00016611 0.8695 0.493933
+UV: 0.0209821 0.463141
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48364 91.6066 15.9168
+Normal: 0.000166163 0.869499 0.493934
+UV: 0.076723 0.463141
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47345 91.6068 -15.908
+Normal: -1 9.09809e-006 0.000320161
+UV: 0.0852456 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47308 50.9313 -15.9083
+Normal: -1 9.06251e-006 0.000320161
+UV: 0.0852456 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48364 91.6066 15.9168
+Normal: -1 9.07433e-006 0.000320161
+UV: 0.149744 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48327 50.9311 15.9166
+Normal: -1 9.03512e-006 0.000320161
+UV: 0.149744 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48327 50.9311 15.9166
+Normal: -9.15595e-006 -1 -6.1362e-006
+UV: 0.392489 0.524055
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47308 50.9313 -15.9083
+Normal: -9.15595e-006 -1 -6.31037e-006
+UV: 0.392489 0.459557
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9873 50.9309 15.9078
+Normal: -9.15595e-006 -1 -6.28086e-006
+UV: 0.336748 0.524055
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9771 50.9311 -15.9171
+Normal: -9.15595e-006 -1 -6.45502e-006
+UV: 0.336748 0.459557
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48364 91.6066 15.9168
+Normal: 0.000320289 -6.40365e-006 1
+UV: 0.149744 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48327 50.9311 15.9166
+Normal: 0.000320196 -6.38906e-006 1
+UV: 0.149744 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9877 91.6064 15.908
+Normal: 0.000320232 -6.39476e-006 1
+UV: 0.205485 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9873 50.9309 15.9078
+Normal: 0.00032014 -6.38017e-006 1
+UV: 0.205485 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9771 50.9311 -15.9171
+Normal: -0.00032014 6.42704e-006 -1
+UV: 0.269983 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47308 50.9313 -15.9083
+Normal: -0.000320166 6.42706e-006 -1
+UV: 0.325724 0.534821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9775 91.6066 -15.9168
+Normal: -0.000320183 6.42707e-006 -1
+UV: 0.269983 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47345 91.6068 -15.908
+Normal: -0.00032021 6.42709e-006 -1
+UV: 0.325723 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9801 96.1261 -7.96058
+Normal: 9.15592e-006 1 6.83881e-006
+UV: 0.0209821 0.511514
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47604 96.1264 -7.95177
+Normal: 9.15591e-006 1 6.74238e-006
+UV: 0.076723 0.511514
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9852 96.126 7.95183
+Normal: 9.15591e-006 1 6.79047e-006
+UV: 0.0209821 0.479265
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48113 96.1263 7.96064
+Normal: 9.15591e-006 1 6.69404e-006
+UV: 0.076723 0.479265
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9775 91.6066 -15.9168
+Normal: -0.000150181 0.869507 -0.493921
+UV: 0.0209821 0.527638
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47345 91.6068 -15.908
+Normal: -0.000150207 0.869506 -0.493922
+UV: 0.076723 0.527638
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9801 96.1261 -7.96058
+Normal: -0.000150188 0.869506 -0.493922
+UV: 0.0209821 0.511514
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47604 96.1264 -7.95177
+Normal: -0.000150214 0.869506 -0.493923
+UV: 0.076723 0.511514
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9801 96.1261 -7.96058
+Normal: 1 -1.00273e-005 -0.000320155
+UV: 0.253858 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.9852 96.126 7.95183
+Normal: 1 -5.94077e-006 -0.00032004
+UV: 0.221609 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.47604 96.1264 -7.95177
+Normal: -1 8.91118e-006 0.000320161
+UV: 0.10137 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 8.48113 96.1263 7.96064
+Normal: -1 9.1155e-006 0.000320161
+UV: 0.133619 0.452386
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.79361 60.4234 -8.52004
+Normal: -0.999999 -8.83464e-006 0.00168955
+UV: 0.143883 0.775741
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78351 54.1543 -14.5307
+Normal: -0.999999 -3.09118e-005 0.00169551
+UV: 0.131703 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.82247 60.4235 8.56146
+Normal: -0.999999 -5.39802e-005 0.00170173
+UV: 0.178501 0.775741
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83307 54.1545 14.5722
+Normal: -0.999999 -5.73734e-005 0.00170264
+UV: 0.190681 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78351 54.1543 -14.5307
+Normal: -0.00122855 0.692077 -0.721822
+UV: 0.131703 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.79361 60.4234 -8.52004
+Normal: -0.00122732 0.69208 -0.72182
+UV: 0.131701 0.770849
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6125 54.1546 -14.5728
+Normal: -0.00122402 0.692087 -0.721813
+UV: 0.0813727 0.788447
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6227 60.4236 -8.56189
+Normal: -0.00122279 0.69209 -0.72181
+UV: 0.0813738 0.770849
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6616 54.1547 14.5304
+Normal: 0.999999 3.98099e-005 -0.00168956
+UV: 0.0223917 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6125 54.1546 -14.5728
+Normal: 0.999999 -6.12932e-006 -0.00167733
+UV: 0.0813727 0.788447
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6512 60.4237 8.51941
+Normal: 0.999999 3.39191e-005 -0.00168799
+UV: 0.0345737 0.775741
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6227 60.4236 -8.56189
+Normal: 0.999999 -4.44587e-005 -0.00166712
+UV: 0.0691918 0.775741
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78385 15.2803 -14.5305
+Normal: 8.8063e-006 -1 6.26173e-006
+UV: 0.250547 0.818425
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6128 15.2806 -14.5725
+Normal: 8.80634e-006 -1 6.25671e-006
+UV: 0.250548 0.868745
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83341 15.2805 14.5724
+Normal: 8.80635e-006 -1 6.25559e-006
+UV: 0.309529 0.818425
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.662 15.2807 14.5306
+Normal: 8.80639e-006 -1 6.25057e-006
+UV: 0.309529 0.868745
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83341 15.2805 14.5724
+Normal: 0.00168551 6.19711e-006 0.999999
+UV: 0.190683 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.662 15.2807 14.5306
+Normal: 0.00168554 6.19705e-006 0.999999
+UV: 0.241008 0.867228
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83307 54.1545 14.5722
+Normal: 0.00168557 6.19701e-006 0.999999
+UV: 0.190681 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6616 54.1547 14.5304
+Normal: 0.0016856 6.19694e-006 0.999999
+UV: 0.241013 0.788447
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6128 15.2806 -14.5725
+Normal: -0.00169345 -6.24621e-006 -0.999999
+UV: 0.0813748 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78385 15.2803 -14.5305
+Normal: -0.00169342 -6.22844e-006 -0.999999
+UV: 0.131701 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6125 54.1546 -14.5728
+Normal: -0.00169339 -6.21487e-006 -0.999999
+UV: 0.0813727 0.788447
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78351 54.1543 -14.5307
+Normal: -0.00169336 -6.19709e-006 -0.999999
+UV: 0.131703 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6512 60.4237 8.51941
+Normal: 0.00121616 0.692099 0.721802
+UV: 0.24101 0.770849
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.82247 60.4235 8.56146
+Normal: 0.00121173 0.692089 0.721811
+UV: 0.190683 0.770849
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6616 54.1547 14.5304
+Normal: 0.00121495 0.692096 0.721804
+UV: 0.241013 0.788447
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83307 54.1545 14.5722
+Normal: 0.00121052 0.692087 0.721813
+UV: 0.190681 0.788446
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6512 60.4237 8.51941
+Normal: -8.9217e-006 1 -5.75656e-006
+UV: 0.303718 0.805362
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6227 60.4236 -8.56189
+Normal: -8.86255e-006 1 -6.06921e-006
+UV: 0.303718 0.770743
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.82247 60.4235 8.56146
+Normal: -8.82666e-006 1 -6.25889e-006
+UV: 0.253398 0.805361
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.79361 60.4234 -8.52004
+Normal: -8.7675e-006 1 -6.57152e-006
+UV: 0.253398 0.770743
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.6128 15.2806 -14.5725
+Normal: 0.999999 8.73969e-006 -0.00168956
+UV: 0.0813748 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 34.662 15.2807 14.5306
+Normal: 0.999999 8.76261e-006 -0.00168956
+UV: 0.0223917 0.86723
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.83341 15.2805 14.5724
+Normal: -0.999999 -8.69823e-006 0.00170264
+UV: 0.190683 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.78385 15.2803 -14.5305
+Normal: -0.999999 -8.6858e-006 0.00170264
+UV: 0.131701 0.867229
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 28.1868
+Normal: -1 0 0
+UV: 0.314054 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 -28.1868
+Normal: -1 0 0
+UV: 0.199804 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 28.1868
+Normal: -1 0 0
+UV: 0.314054 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 -28.1868
+Normal: -1 0 0
+UV: 0.199804 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 -28.1868
+Normal: 0 1 0
+UV: 0.752557 0.371736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 28.1868
+Normal: 0 1 0
+UV: 0.866807 0.371736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 -28.1868
+Normal: 0 1 0
+UV: 0.752558 0.193872
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 28.1868
+Normal: 0 1 0
+UV: 0.866807 0.193872
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 -28.1868
+Normal: 1 0 0
+UV: 0.606167 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 28.1868
+Normal: 1 0 0
+UV: 0.491918 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 -28.1868
+Normal: 1 0 0
+UV: 0.606167 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 28.1868
+Normal: 1 0 0
+UV: 0.491918 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 28.1868
+Normal: 0 -1 0
+UV: 0.625485 0.372067
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 -28.1868
+Normal: 0 -1 0
+UV: 0.739734 0.372067
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 28.1868
+Normal: 0 -1 0
+UV: 0.625485 0.194203
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 -28.1868
+Normal: 0 -1 0
+UV: 0.739734 0.194203
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 28.1868
+Normal: 0 0 1
+UV: 0.491918 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 28.1868
+Normal: 0 0 1
+UV: 0.491918 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 28.1868
+Normal: 0 0 1
+UV: 0.314054 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 28.1868
+Normal: 0 0 1
+UV: 0.314054 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 204.497 -28.1868
+Normal: 0 0 -1
+UV: 0.199804 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 204.497 -28.1868
+Normal: 0 0 -1
+UV: 0.0219398 0.19281
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 104.499 -28.1868
+Normal: 0 0 -1
+UV: 0.199804 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 104.499 -28.1868
+Normal: 0 0 -1
+UV: 0.0219398 0.394156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 15.0597
+Normal: 0 -1 0
+UV: 0.864547 0.508162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 -15.0597
+Normal: 0 -1 0
+UV: 0.803506 0.508162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 15.0597
+Normal: 0 -1 0
+UV: 0.864547 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 -15.0597
+Normal: 0 -1 0
+UV: 0.803506 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 15.0597
+Normal: -1 0 0
+UV: 0.923747 0.560392
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 -15.0597
+Normal: -1 0 0
+UV: 0.984788 0.560392
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 15.0597
+Normal: -1 0 0
+UV: 0.923747 0.509151
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 -15.0597
+Normal: -1 0 0
+UV: 0.984788 0.509151
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 -15.0597
+Normal: 0 1 0
+UV: 0.752266 0.508163
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 15.0597
+Normal: 0 1 0
+UV: 0.691224 0.508163
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 -15.0597
+Normal: 0 1 0
+UV: 0.752266 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 15.0597
+Normal: 0 1 0
+UV: 0.691224 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 -15.0597
+Normal: 1 0 0
+UV: 0.922261 0.622482
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 15.0597
+Normal: 1 0 0
+UV: 0.983302 0.622482
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 -15.0597
+Normal: 1 0 0
+UV: 0.922261 0.571241
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 15.0597
+Normal: 1 0 0
+UV: 0.983302 0.571241
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 15.0597
+Normal: 0 0 1
+UV: 0.915789 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 15.0597
+Normal: 0 0 1
+UV: 0.915789 0.508162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 15.0597
+Normal: 0 0 1
+UV: 0.864547 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 15.0597
+Normal: 0 0 1
+UV: 0.864547 0.508162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 182.705 -15.0597
+Normal: 0 0 -1
+UV: 0.803506 0.508162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 47.3708 207.989 -15.0597
+Normal: 0 0 -1
+UV: 0.752266 0.508163
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 182.705 -15.0597
+Normal: 0 0 -1
+UV: 0.803506 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.643 207.989 -15.0597
+Normal: 0 0 -1
+UV: 0.752266 0.622204
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 -8.23734
+Normal: 0 -1 -3.63177e-008
+UV: 0.718921 0.639751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 -14.0347
+Normal: 5.87875e-007 -1 8.7027e-007
+UV: 0.707172 0.652455
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 8.23734
+Normal: 0 -1 -1.28905e-006
+UV: 0.75231 0.639752
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 14.0347
+Normal: 5.77785e-007 -1 1.23097e-006
+UV: 0.764059 0.652456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 -14.0347
+Normal: -0.679037 1.23163e-005 -0.734104
+UV: 0.913924 0.65246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 -8.23734
+Normal: -0.679038 1.22089e-005 -0.734103
+UV: 0.913925 0.635156
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 -14.0343
+Normal: -0.679039 1.19502e-005 -0.734102
+UV: 0.867435 0.652458
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 -8.23696
+Normal: -0.679039 1.18428e-005 -0.734102
+UV: 0.867436 0.635155
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 14.0343
+Normal: 0 1 0
+UV: 0.810548 0.652457
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 -14.0343
+Normal: 8.89676e-005 1 2.41934e-005
+UV: 0.867435 0.652458
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 8.23695
+Normal: 1.20221e-005 1 3.26923e-006
+UV: 0.822297 0.639753
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 -8.23696
+Normal: 0.000164569 1 4.47519e-005
+UV: 0.855685 0.639753
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 -14.0347
+Normal: 1 -1.51672e-006 0
+UV: 0.98199 0.745462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 -14.0343
+Normal: 1 -6.33219e-007 0
+UV: 0.98199 0.698974
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 14.0347
+Normal: 1 -3.74679e-007 0
+UV: 0.925105 0.745462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 14.0343
+Normal: 1 5.08865e-007 0
+UV: 0.925104 0.698974
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 14.0347
+Normal: -1.86163e-009 1.66302e-005 1
+UV: 0.764059 0.752832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 14.0343
+Normal: -1.34761e-009 1.66302e-005 1
+UV: 0.810548 0.752833
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 14.0347
+Normal: -5.14021e-010 1.66301e-005 1
+UV: 0.764059 0.652456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 14.0343
+Normal: 0 1.66301e-005 1
+UV: 0.810548 0.652457
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 -14.0343
+Normal: 0 1.66302e-005 -1
+UV: 0.867434 0.752833
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 -14.0347
+Normal: 0 1.66302e-005 -1
+UV: 0.913923 0.752835
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 -14.0343
+Normal: 0 1.66301e-005 -1
+UV: 0.867435 0.652458
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 -14.0347
+Normal: 0 1.66301e-005 -1
+UV: 0.913924 0.65246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 8.23695
+Normal: -0.679038 1.18431e-005 0.734103
+UV: 0.810548 0.635154
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 8.23734
+Normal: -0.679039 1.2209e-005 0.734102
+UV: 0.76406 0.635153
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 206.816 14.0343
+Normal: -0.679038 1.19505e-005 0.734103
+UV: 0.810548 0.652457
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 103.641 183.877 14.0347
+Normal: -0.67904 1.23163e-005 0.734102
+UV: 0.764059 0.652456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 8.23695
+Normal: -1 -1.07457e-006 -4.63136e-007
+UV: 0.968532 0.63772
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 206.816 -8.23696
+Normal: -1 -3.92295e-007 8.77838e-008
+UV: 0.935144 0.637721
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 8.23734
+Normal: -1 -3.61471e-008 3.75365e-007
+UV: 0.968532 0.684209
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 97.374 183.877 -8.23734
+Normal: -1 6.46018e-007 9.26197e-007
+UV: 0.935143 0.684209
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 -14.0343
+Normal: 0 1 0
+UV: 0.867434 0.752833
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 206.816 14.0343
+Normal: 0 1 0
+UV: 0.810548 0.752833
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 14.0347
+Normal: 6.16154e-007 -1 4.61131e-007
+UV: 0.764059 0.752832
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 183.877 -14.0347
+Normal: 6.16154e-007 -1 0
+UV: 0.707173 0.752831
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.843 -7.22459
+Normal: 9.00311e-005 -1 2.67658e-005
+UV: 0.804173 0.948062
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 -12.309
+Normal: 4.86694e-005 -1 1.44691e-005
+UV: 0.793868 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.844 7.22459
+Normal: 6.58005e-006 -1 1.95622e-006
+UV: 0.833457 0.948062
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 12.309
+Normal: 0 -1 0
+UV: 0.843762 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 -12.309
+Normal: -0.67889 -1.67678e-005 -0.73424
+UV: 0.793868 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.843 -7.22459
+Normal: -0.678897 -1.23395e-005 -0.734234
+UV: 0.793864 0.94403
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 -12.3094
+Normal: -0.67891 -4.42801e-006 -0.734222
+UV: 0.753088 0.959212
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 -7.22459
+Normal: -0.678917 0 -0.734215
+UV: 0.753086 0.944038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 12.3094
+Normal: -0.000135968 1 0
+UV: 0.703195 0.959226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 -12.3094
+Normal: -8.52713e-005 1 1.50112e-005
+UV: 0.753088 0.959212
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 7.22459
+Normal: -0.000129114 1 2.02944e-006
+UV: 0.713496 0.94808
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 -7.22459
+Normal: -4.21841e-005 1 2.77694e-005
+UV: 0.742781 0.948072
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 -12.309
+Normal: 1 2.33249e-006 -6.19821e-007
+UV: 0.891615 0.947532
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 -12.3094
+Normal: 1 1.06571e-006 -6.19813e-007
+UV: 0.891615 0.988306
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 12.309
+Normal: 1 3.07765e-007 -6.19809e-007
+UV: 0.941508 0.947532
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 12.3094
+Normal: 1 -9.58934e-007 -6.19801e-007
+UV: 0.941508 0.988306
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 12.309
+Normal: -3.62922e-008 -2.25986e-005 1
+UV: 0.843763 0.990172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 12.3094
+Normal: -1.69113e-008 -2.25985e-005 1
+UV: 0.884537 0.990173
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 12.309
+Normal: -1.93808e-008 -2.25985e-005 1
+UV: 0.843762 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 12.3094
+Normal: 0 -2.25984e-005 1
+UV: 0.884541 0.959208
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 -12.3094
+Normal: 0 -2.25985e-005 -1
+UV: 0.753096 0.990179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 -12.309
+Normal: 0 -2.25985e-005 -1
+UV: 0.79387 0.990172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 -12.3094
+Normal: 0 -2.25985e-005 -1
+UV: 0.753088 0.959212
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 -12.309
+Normal: 0 -2.25985e-005 -1
+UV: 0.793868 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 7.22459
+Normal: -0.678919 0 0.734213
+UV: 0.884541 0.944033
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.844 7.22459
+Normal: -0.6789 -1.23397e-005 0.734231
+UV: 0.843764 0.944031
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 12.3094
+Normal: -0.678912 -4.42838e-006 0.73422
+UV: 0.884541 0.959208
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 186.844 12.309
+Normal: -0.678893 -1.67679e-005 0.734237
+UV: 0.843762 0.959205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 7.22459
+Normal: -1 0 2.11207e-006
+UV: 0.979092 0.947961
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 203.85 -7.22459
+Normal: -1 0 2.11206e-006
+UV: 0.949808 0.947961
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.844 7.22459
+Normal: -1 0 2.11206e-006
+UV: 0.979092 0.988735
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 147.672 186.843 -7.22459
+Normal: -1 0 2.11206e-006
+UV: 0.949808 0.988735
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 -12.3094
+Normal: 0 1 -3.3663e-007
+UV: 0.753096 0.990179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 203.851 12.3094
+Normal: 0 1 -1.1904e-007
+UV: 0.703203 0.990194
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.171 203.851 12.3094
+Normal: 0 1 0
+UV: 0.703195 0.959226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 12.309
+Normal: 9.98626e-007 -1 1.47935e-007
+UV: 0.843763 0.990172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 168.45 186.844 -12.309
+Normal: 9.98626e-007 -1 4.18332e-007
+UV: 0.79387 0.990172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 15.0597
+Normal: 0 -1 6.91441e-006
+UV: 0.865642 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 15.0597
+Normal: 0 -1 6.12256e-006
+UV: 0.865641 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 -15.0597
+Normal: 0 -1 6.55385e-006
+UV: 0.804655 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 -15.0597
+Normal: 0 -1 5.762e-006
+UV: 0.804655 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 -15.0597
+Normal: 1 0 0
+UV: 0.925834 0.433529
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 -15.0597
+Normal: 1 0 0
+UV: 0.925834 0.382288
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 15.0597
+Normal: 1 0 0
+UV: 0.986718 0.433529
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 15.0597
+Normal: 1 0 0
+UV: 0.986718 0.382288
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 -15.0597
+Normal: -5.42337e-007 1 0
+UV: 0.753414 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 -15.0597
+Normal: -5.42337e-007 1 0
+UV: 0.753414 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 15.0597
+Normal: -5.42337e-007 1 0
+UV: 0.692372 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 15.0597
+Normal: -5.42337e-007 1 0
+UV: 0.692372 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 -15.0597
+Normal: -1 -6.4118e-007 0
+UV: 0.985806 0.444107
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 -15.0597
+Normal: -1 -6.41182e-007 1.90294e-012
+UV: 0.985806 0.495348
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 15.0597
+Normal: -1 -6.41182e-007 2.3774e-012
+UV: 0.924609 0.444108
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 15.0597
+Normal: -1 -6.41185e-007 4.28037e-012
+UV: 0.924609 0.495348
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 15.0597
+Normal: -4.03403e-008 0 1
+UV: 0.916882 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 15.0597
+Normal: -2.94952e-008 0 1
+UV: 0.865641 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 15.0597
+Normal: -1.08451e-008 0 1
+UV: 0.916882 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 15.0597
+Normal: 0 0 1
+UV: 0.865642 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 182.705 -15.0597
+Normal: 0 2.6403e-007 -1
+UV: 0.804655 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 182.705 -15.0597
+Normal: 1.87156e-009 2.6403e-007 -1
+UV: 0.804655 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -47.3713 207.989 -15.0597
+Normal: 6.88159e-010 2.6403e-007 -1
+UV: 0.753414 0.382076
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 207.989 -15.0597
+Normal: 2.55972e-009 2.6403e-007 -1
+UV: 0.753414 0.496116
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 14.0347
+Normal: 0 -1 7.02449e-006
+UV: 0.761773 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 14.0347
+Normal: 0 -1 6.08074e-006
+UV: 0.761773 0.878247
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 -14.0347
+Normal: 0 -1 6.56334e-006
+UV: 0.704887 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 -14.0347
+Normal: 0 -1 5.61959e-006
+UV: 0.704887 0.878247
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 -14.0347
+Normal: 0.679036 1.24664e-005 -0.734105
+UV: 0.911637 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 -14.0343
+Normal: 0.679037 1.2141e-005 -0.734104
+UV: 0.865148 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 -8.23734
+Normal: 0.679037 1.2371e-005 -0.734104
+UV: 0.911637 0.760567
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.816 -8.23695
+Normal: 0.679037 1.20455e-005 -0.734104
+UV: 0.865148 0.760567
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 -14.0343
+Normal: 0 1 8.42961e-006
+UV: 0.865148 0.878246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 14.0343
+Normal: 0 1 7.50732e-006
+UV: 0.808261 0.878246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 -14.0343
+Normal: 0 1 6.54204e-006
+UV: 0.865148 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 14.0343
+Normal: 0 1 5.61974e-006
+UV: 0.808262 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 -14.0347
+Normal: -1 5.0936e-007 0
+UV: 0.981414 0.874295
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 14.0347
+Normal: -1 -6.32985e-007 0
+UV: 0.924529 0.874295
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 -14.0343
+Normal: -1 -3.74365e-007 0
+UV: 0.981414 0.827807
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 14.0343
+Normal: -1 -1.51678e-006 0
+UV: 0.924528 0.827807
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 14.0347
+Normal: 0 1.66304e-005 1
+UV: 0.761773 0.878247
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 14.0347
+Normal: 0 1.66304e-005 1
+UV: 0.761773 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 14.0343
+Normal: 0 1.66304e-005 1
+UV: 0.808261 0.878246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 14.0343
+Normal: 0 1.66304e-005 1
+UV: 0.808262 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 206.816 -14.0343
+Normal: 0 1.66301e-005 -1
+UV: 0.865148 0.878246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 -14.0343
+Normal: 0 1.66301e-005 -1
+UV: 0.865148 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 -14.0347
+Normal: 0 1.66301e-005 -1
+UV: 0.911637 0.878246
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 -14.0347
+Normal: 0 1.66301e-005 -1
+UV: 0.911637 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.817 8.23696
+Normal: 0.679036 1.20986e-005 0.734105
+UV: 0.808262 0.760567
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 206.816 14.0343
+Normal: 0.679037 1.21821e-005 0.734104
+UV: 0.808262 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 8.23734
+Normal: 0.679037 1.23832e-005 0.734104
+UV: 0.761773 0.760567
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -103.642 183.878 14.0347
+Normal: 0.679037 1.24667e-005 0.734104
+UV: 0.761773 0.777871
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.817 8.23696
+Normal: 1 -6.46058e-007 1.17065e-011
+UV: 0.936277 0.813895
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 8.23734
+Normal: 1 -1.24461e-007 2.79483e-007
+UV: 0.936277 0.767407
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.816 -8.23695
+Normal: 1 -3.03356e-007 1.83631e-007
+UV: 0.969665 0.813895
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 -8.23734
+Normal: 1 2.18235e-007 4.63098e-007
+UV: 0.969666 0.767407
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.817 8.23696
+Normal: -7.50066e-005 1 3.84103e-006
+UV: 0.82001 0.765166
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 206.816 -8.23695
+Normal: 6.42068e-005 1 -3.54685e-005
+UV: 0.853399 0.765166
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 -8.23734
+Normal: 3.94958e-005 -1 -1.18223e-005
+UV: 0.716636 0.765166
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -97.3744 183.878 8.23734
+Normal: -1.86027e-005 -1 5.56834e-006
+UV: 0.750024 0.765166
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 12.3094
+Normal: 0 -1 0
+UV: 0.887217 0.902765
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 12.3094
+Normal: 0 -1 0
+UV: 0.887211 0.933733
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 -12.3094
+Normal: 0 -1 0
+UV: 0.837325 0.902755
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 -12.3094
+Normal: 0 -1 0
+UV: 0.837319 0.933722
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 -12.3094
+Normal: 0.679021 -8.98681e-007 -0.734118
+UV: 0.837325 0.902755
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 -12.3094
+Normal: 0.679021 2.95815e-007 -0.734119
+UV: 0.796545 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.278 -7.2246
+Normal: 0.679021 -5.02103e-007 -0.734119
+UV: 0.837325 0.887581
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.417 -7.22459
+Normal: 0.67902 6.92393e-007 -0.734119
+UV: 0.796547 0.887577
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 12.3094
+Normal: 7.44878e-005 1 -1.62351e-005
+UV: 0.746652 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.416 7.22459
+Normal: 6.74499e-005 1 -1.41509e-005
+UV: 0.756956 0.891608
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 -12.3094
+Normal: 2.24091e-005 1 -8.12161e-007
+UV: 0.796545 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.417 -7.22459
+Normal: -2.1847e-005 1 1.22941e-005
+UV: 0.78624 0.891608
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 -12.3094
+Normal: -1 -1.49576e-006 0
+UV: 0.945459 0.931852
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 12.3094
+Normal: -1 -1.90746e-006 3.69257e-007
+UV: 0.895567 0.931852
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 -12.3094
+Normal: -1 -1.77513e-006 2.50567e-007
+UV: 0.945459 0.891078
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 12.3094
+Normal: -1 -2.18681e-006 6.19814e-007
+UV: 0.895567 0.891078
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 12.3094
+Normal: 0 0 1
+UV: 0.705877 0.933721
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 12.3094
+Normal: 0 0 1
+UV: 0.705872 0.902755
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 12.3094
+Normal: 0 0 1
+UV: 0.746652 0.933718
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 12.3094
+Normal: 0 0 1
+UV: 0.746652 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 -12.3094
+Normal: 0 -2.10304e-007 -1
+UV: 0.796545 0.933718
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 -12.3094
+Normal: 0 -2.10304e-007 -1
+UV: 0.796545 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 186.278 -12.3094
+Normal: 0 -2.10304e-007 -1
+UV: 0.837319 0.933722
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 -12.3094
+Normal: 0 -2.10304e-007 -1
+UV: 0.837325 0.902755
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.416 7.22459
+Normal: 0.67902 -2.06286e-007 0.734119
+UV: 0.74665 0.887577
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 204.417 12.3094
+Normal: 0.679021 -1.54867e-007 0.734119
+UV: 0.746652 0.902751
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.277 7.22459
+Normal: 0.679021 -5.14157e-008 0.734119
+UV: 0.705873 0.88758
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 186.278 12.3094
+Normal: 0.679021 0 0.734119
+UV: 0.705872 0.902755
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.416 7.22459
+Normal: 1 0 8.88351e-012
+UV: 0.952448 0.931625
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.277 7.22459
+Normal: 1 3.27434e-007 -6.03807e-007
+UV: 0.952448 0.890852
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 204.417 -7.22459
+Normal: 1 2.45229e-007 -4.52214e-007
+UV: 0.981732 0.931625
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.278 -7.2246
+Normal: 1 5.72663e-007 -1.05603e-006
+UV: 0.981732 0.890852
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 -12.3094
+Normal: 0 1 -1.55756e-005
+UV: 0.796545 0.933718
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -168.451 204.417 12.3094
+Normal: 0 1 -1.55756e-005
+UV: 0.746652 0.933718
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.278 -7.2246
+Normal: 2.83749e-005 -1 -1.22941e-005
+UV: 0.847632 0.891614
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -147.673 186.277 7.22459
+Normal: -1.33641e-005 -1 -8.98167e-007
+UV: 0.876915 0.89162
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 -35.3917
+Normal: -1 0 0
+UV: 0.50233 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 35.7184
+Normal: -1 0 0
+UV: 0.342203 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 -35.3917
+Normal: -1 0 0
+UV: 0.50233 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 35.7184
+Normal: -1 0 0
+UV: 0.342203 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 -35.3917
+Normal: 0 1 0
+UV: 0.659915 0.0147605
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 35.7184
+Normal: 0 1 0
+UV: 0.503667 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 -35.3917
+Normal: 0 1 0
+UV: 0.659915 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 35.7184
+Normal: 0 1 0
+UV: 0.503668 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 -35.3917
+Normal: 1 0 0
+UV: 0.0219482 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 35.7184
+Normal: 1 0 0
+UV: 0.182076 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 -35.3917
+Normal: 1 0 0
+UV: 0.0219478 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 35.7184
+Normal: 1 0 0
+UV: 0.182076 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 35.7184
+Normal: 0 -1 0
+UV: 0.983179 0.0147605
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 -35.3917
+Normal: 0 -1 0
+UV: 0.823052 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 35.7184
+Normal: 0 -1 0
+UV: 0.983179 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 -35.3917
+Normal: 0 -1 0
+UV: 0.823052 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 35.7184
+Normal: 0 0 1
+UV: 0.182076 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 35.7184
+Normal: 4.8282e-008 0 1
+UV: 0.342203 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 35.7184
+Normal: 4.82813e-008 0 1
+UV: 0.182076 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 35.7184
+Normal: 9.65633e-008 0 1
+UV: 0.342203 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 -35.3917
+Normal: 0 0 -1
+UV: 0.66269 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 275.232 -35.3917
+Normal: 0 0 -1
+UV: 0.662691 0.014994
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 -35.3917
+Normal: 0 0 -1
+UV: 0.822818 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 275.232 -35.3917
+Normal: 0 0 -1
+UV: 0.822818 0.0149941
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 -25.8688
+Normal: -1 0 0
+UV: 0.29644 0.43919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 25.8688
+Normal: -1 0 0
+UV: 0.401291 0.439226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 -25.8688
+Normal: -1 0 0
+UV: 0.296444 0.413063
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 -12.9344
+Normal: -1 0 0
+UV: 0.322661 0.401384
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 12.9344
+Normal: -1 0 0
+UV: 0.37509 0.401403
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 25.8688
+Normal: -1 0 0
+UV: 0.401301 0.4131
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 25.8688
+Normal: 1 0 0
+UV: 0.0283542 0.439208
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 -25.8688
+Normal: 1 0 0
+UV: 0.133207 0.43919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 25.8688
+Normal: 1 0 0
+UV: 0.0283497 0.413081
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 12.9344
+Normal: 1 0 0
+UV: 0.0545617 0.401389
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 -12.9344
+Normal: 1 0 0
+UV: 0.10699 0.401379
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 -25.8688
+Normal: 1 0 0
+UV: 0.133205 0.413063
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 -25.8688
+Normal: 0 -1 0
+UV: 0.877889 0.194037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 -25.8688
+Normal: 0 -1 0
+UV: 0.877889 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 25.8688
+Normal: 0 -1 0
+UV: 0.982743 0.194036
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 25.8688
+Normal: 0 -1 0
+UV: 0.982743 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 25.8688
+Normal: 0 0 1
+UV: 0.564538 0.413159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 25.8688
+Normal: 0 0 1
+UV: 0.401301 0.4131
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 25.8688
+Normal: 0 0 1
+UV: 0.564528 0.439286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 25.8688
+Normal: 0 0 1
+UV: 0.401291 0.439226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 91.6066 -25.8688
+Normal: 0 0 -1
+UV: 0.29644 0.43919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 -25.8688
+Normal: 0 0 -1
+UV: 0.296444 0.413063
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 91.6066 -25.8688
+Normal: 0 0 -1
+UV: 0.133207 0.43919
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 -25.8688
+Normal: 0 0 -1
+UV: 0.133205 0.413063
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 -25.8688
+Normal: 0 0.913298 -0.407293
+UV: 0.982743 0.194036
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 -12.9344
+Normal: 0 0.913298 -0.407293
+UV: 0.95653 0.194036
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 -25.8688
+Normal: 0 0.913298 -0.407292
+UV: 0.982743 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 -12.9344
+Normal: 0 0.913298 -0.407291
+UV: 0.95653 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 12.9344
+Normal: 0 1 0
+UV: 0.904103 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 -12.9344
+Normal: 0 1 0
+UV: 0.95653 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 12.9344
+Normal: 0 1 0
+UV: 0.904103 0.194037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 -12.9344
+Normal: 0 1 0
+UV: 0.95653 0.194036
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 110.266 12.9344
+Normal: 0 0.913298 0.407291
+UV: 0.904103 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 110.266 12.9344
+Normal: 0 0.913298 0.407293
+UV: 0.904103 0.194037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 40.2725 104.498 25.8688
+Normal: 0 0.913298 0.407292
+UV: 0.877889 0.357273
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -40.2725 104.498 25.8688
+Normal: 0 0.913298 0.407293
+UV: 0.877889 0.194037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 15.2805 -12.3092
+Normal: -1 0 -1.56502e-005
+UV: 0.396878 0.715608
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 4.99595e-008 -12.3092
+Normal: -1 -7.14074e-006 -1.12512e-005
+UV: 0.396879 0.746577
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1633 15.2805 12.3092
+Normal: -1 -1.31556e-005 -7.54586e-006
+UV: 0.346986 0.715608
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 4.99595e-008 22.405
+Normal: -1 -1.63964e-005 -5.54938e-006
+UV: 0.326524 0.746578
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 15.2805 -12.3092
+Normal: -6.9885e-006 0.678998 -0.73414
+UV: 0.218052 0.749018
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 -7.22469
+Normal: -4.59904e-006 0.679003 -0.734136
+UV: 0.233227 0.749017
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 -12.3094
+Normal: 1.15549e-006 0.679014 -0.734125
+UV: 0.218052 0.708239
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 -7.22459
+Normal: 3.5448e-006 0.679019 -0.734121
+UV: 0.233227 0.70824
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 12.3094
+Normal: 1 -4.50974e-007 0
+UV: 0.261934 0.714534
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 -12.3094
+Normal: 1 -2.07176e-007 0
+UV: 0.311827 0.714534
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 7.22459
+Normal: 1 -4.18027e-007 0
+UV: 0.272238 0.703392
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 -7.22459
+Normal: 1 0 0
+UV: 0.301522 0.703392
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 4.99595e-008 -12.3092
+Normal: 0 -1 -2.13661e-016
+UV: 0.187086 0.749016
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 4.99595e-008 -12.3094
+Normal: 0 -1 -1.42214e-016
+UV: 0.187086 0.708241
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 4.99595e-008 22.405
+Normal: 0 -1 -7.14434e-017
+UV: 0.116732 0.749015
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 4.99595e-008 22.4051
+Normal: 0 -1 0
+UV: 0.116732 0.708242
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 4.99595e-008 22.405
+Normal: -4.9633e-006 0 1
+UV: 0.116732 0.749015
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 4.99595e-008 22.4051
+Normal: -4.84687e-006 0 1
+UV: 0.116732 0.708242
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 15.2805 22.405
+Normal: -4.88121e-006 0 1
+UV: 0.0857628 0.749019
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 15.2805 22.4051
+Normal: -4.76477e-006 0 1
+UV: 0.0857638 0.708237
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 4.99595e-008 -12.3094
+Normal: -9.52972e-006 0 -1
+UV: 0.187086 0.708241
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 4.99595e-008 -12.3092
+Normal: -9.52972e-006 0 -1
+UV: 0.187086 0.749016
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 -12.3094
+Normal: -9.52972e-006 0 -1
+UV: 0.218052 0.708239
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 15.2805 -12.3092
+Normal: -9.52972e-006 0 -1
+UV: 0.218052 0.749018
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 7.22459
+Normal: 3.39288e-006 0.679019 0.734121
+UV: 0.0502228 0.708224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 7.22469
+Normal: -4.59436e-006 0.679003 0.734136
+UV: 0.0502229 0.749032
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 12.3094
+Normal: 1.04951e-006 0.679014 0.734125
+UV: 0.0653428 0.708226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1633 15.2805 12.3092
+Normal: -6.93773e-006 0.678998 0.73414
+UV: 0.0653428 0.74903
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 7.22459
+Normal: 0 1 0
+UV: 0.0502228 0.708224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 20.778 -7.22459
+Normal: 0 1 0
+UV: 0.0209798 0.708233
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 7.22469
+Normal: 0 1 0
+UV: 0.0502229 0.749032
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 -7.22469
+Normal: 0 1 0
+UV: 0.0209798 0.749023
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 4.99595e-008 22.4051
+Normal: 1 0 -1.88928e-005
+UV: 0.241473 0.745503
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 15.2805 22.4051
+Normal: 1 0 -1.88928e-005
+UV: 0.241473 0.714534
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 15.2805 12.3094
+Normal: 0 1 -1.49218e-007
+UV: 0.0653428 0.708226
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1633 15.2805 12.3092
+Normal: 0 1 1.67342e-007
+UV: 0.0653428 0.74903
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2827 15.2805 22.4051
+Normal: 0 1 -1.60657e-008
+UV: 0.0857638 0.708237
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 15.2805 22.405
+Normal: 0 1 3.00491e-007
+UV: 0.0857628 0.749019
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1635 15.2805 22.405
+Normal: -1 0 1.90815e-005
+UV: 0.326524 0.715608
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 32.2825 4.99595e-008 -12.3094
+Normal: 1 4.00874e-006 -2.3928e-006
+UV: 0.311827 0.745502
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 -7.22469
+Normal: -1 3.84184e-007 0
+UV: 0.386575 0.704465
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 12.1637 20.778 7.22469
+Normal: -1 5.17595e-005 -1.45068e-005
+UV: 0.357291 0.704465
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+4 6 5
+6 7 5
+8 10 9
+10 11 9
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+20 22 21
+22 23 21
+24 26 25
+26 27 25
+28 30 29
+30 31 29
+2 32 3
+32 33 3
+34 8 35
+8 9 35
+36 38 37
+38 39 37
+40 42 41
+42 43 41
+44 46 45
+46 47 45
+48 50 49
+50 51 49
+52 54 53
+54 55 53
+56 58 57
+58 59 57
+60 62 61
+62 63 61
+64 66 65
+66 67 65
+68 46 69
+46 44 69
+70 38 71
+38 36 71
+72 74 73
+74 75 73
+76 78 77
+78 79 77
+80 82 81
+82 83 81
+84 86 85
+86 87 85
+88 90 89
+90 91 89
+92 94 93
+94 95 93
+96 98 97
+98 99 97
+100 102 101
+102 103 101
+80 81 104
+105 107 106
+107 108 106
+74 72 109
+81 83 110
+83 111 110
+112 75 113
+75 74 113
+114 116 115
+116 117 115
+118 120 119
+120 121 119
+122 124 123
+124 125 123
+126 128 127
+128 129 127
+130 132 131
+132 133 131
+134 136 135
+136 137 135
+138 140 139
+140 141 139
+142 144 143
+144 145 143
+115 117 146
+117 147 146
+148 149 122
+149 124 122
+150 152 151
+152 153 151
+154 156 155
+156 157 155
+158 160 159
+160 161 159
+162 164 163
+164 165 163
+166 168 167
+168 169 167
+170 172 171
+172 173 171
+174 176 175
+176 177 175
+178 180 179
+180 181 179
+182 183 159
+183 158 159
+153 184 151
+184 185 151
+186 188 187
+188 189 187
+190 192 191
+192 193 191
+194 196 195
+196 197 195
+198 200 199
+200 201 199
+202 204 203
+204 205 203
+206 208 207
+208 209 207
+210 212 211
+212 213 211
+214 216 215
+216 217 215
+218 220 219
+220 221 219
+222 224 223
+224 225 223
+226 228 227
+228 229 227
+230 232 231
+232 233 231
+234 236 235
+236 237 235
+238 240 239
+240 241 239
+242 244 243
+244 245 243
+246 248 247
+248 249 247
+250 252 251
+252 253 251
+254 256 255
+256 257 255
+258 260 259
+260 261 259
+262 264 263
+264 265 263
+266 267 243
+267 242 243
+237 268 235
+268 269 235
+270 272 271
+272 273 271
+274 276 275
+276 277 275
+278 280 279
+280 281 279
+282 284 283
+284 285 283
+286 288 287
+288 289 287
+290 292 291
+292 293 291
+294 296 295
+296 297 295
+298 300 299
+300 301 299
+302 303 279
+303 304 279
+273 305 271
+305 306 271
+307 309 308
+309 310 308
+311 313 312
+313 314 312
+315 317 316
+317 318 316
+319 321 320
+321 322 320
+323 325 324
+325 326 324
+327 329 328
+329 330 328
+331 333 332
+333 334 332
+335 337 336
+337 338 336
+339 341 340
+341 342 340
+343 345 344
+345 346 344
+347 349 348
+349 350 348
+351 353 352
+353 354 352
+355 357 356
+357 358 356
+359 361 360
+361 362 360
+342 341 363
+341 364 363
+365 333 366
+333 331 366
+367 369 368
+369 370 368
+371 373 372
+373 374 372
+375 377 376
+377 378 376
+379 381 380
+381 382 380
+383 385 384
+385 386 384
+387 389 388
+389 390 388
+391 393 392
+393 394 392
+395 397 396
+397 398 396
+399 377 400
+377 375 400
+401 369 402
+369 367 402
+403 405 404
+405 406 404
+407 409 408
+409 410 408
+411 413 412
+413 414 412
+415 417 416
+417 418 416
+419 421 420
+421 422 420
+423 425 424
+425 426 424
+427 429 428
+429 430 428
+430 431 428
+431 432 428
+433 435 434
+435 436 434
+436 437 434
+434 437 438
+439 441 440
+441 442 440
+443 445 444
+445 446 444
+447 449 448
+449 450 448
+451 453 452
+453 454 452
+455 457 456
+457 458 456
+459 461 460
+461 462 460
+463 465 464
+465 466 464
+467 469 468
+469 470 468
+471 473 472
+473 474 472
+475 477 476
+477 478 476
+479 481 480
+481 482 480
+483 485 484
+485 486 484
+487 489 488
+489 490 488
+491 493 492
+493 494 492
+495 496 471
+497 499 498
+499 500 498
+465 501 466
+472 502 471
+502 495 471
+503 504 463
+504 465 463
+
+[BONE_HIERARCHY]
+ParentIndexOfBone0: 0
+ParentIndexOfBone1: 0
+ParentIndexOfBone2: 1
+ParentIndexOfBone3: 2
+ParentIndexOfBone4: 3
+ParentIndexOfBone5: 1
+ParentIndexOfBone6: 5
+ParentIndexOfBone7: 6
+ParentIndexOfBone8: 1
+ParentIndexOfBone9: 8
+ParentIndexOfBone10: 9
+ParentIndexOfBone11: 10
+ParentIndexOfBone12: 9
+ParentIndexOfBone13: 12
+ParentIndexOfBone14: 13
+ParentIndexOfBone15: 9
+ParentIndexOfBone16: 15
+ParentIndexOfBone17: 16
+
+[OFFSET_MATRIX]
+BoneOffSet0: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet1: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet2: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet3: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet4: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet5: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet6: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet7: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet8: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet9: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet10: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet11: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet12: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet13: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet14: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet15: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet16: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+BoneOffSet17: 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 
+
+[ANIMATION_CLIPS]
+AnimationClip 
+{
+	Bone 0: 0
+	{
+	}
+	Bone 1: 0
+	{
+	}
+	Bone 2: 0
+	{
+	}
+	Bone 3: 0
+	{
+	}
+	Bone 4: 0
+	{
+	}
+	Bone 5: 0
+	{
+	}
+	Bone 6: 0
+	{
+	}
+	Bone 7: 0
+	{
+	}
+	Bone 8: 0
+	{
+	}
+	Bone 9: 0
+	{
+	}
+	Bone 10: 0
+	{
+	}
+	Bone 11: 0
+	{
+	}
+	Bone 12: 0
+	{
+	}
+	Bone 13: 0
+	{
+	}
+	Bone 14: 0
+	{
+	}
+	Bone 15: 0
+	{
+	}
+	Bone 16: 0
+	{
+	}
+	Bone 17: 0
+	{
+	}
+}
+[MESH_DATA]
+VertexCount: 308
+IndexCount: 552
+BoneCount: 0
+AnimationClips: 1
+
+[VERTEX_DATA]
+Position: -18.6191 146.13 30.5368
+Normal: 1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 28.1868
+Normal: 1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 28.1868
+Normal: 1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: -1 0 0
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: -1 0 0
+UV: 0.31245 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: -1 0 0
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: -1 0 0
+UV: 0.31245 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: 0 0 1
+UV: 0.318878 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 0 0 1
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: 0 0 1
+UV: 0.318878 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 30.5368
+Normal: 0 0 1
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 0 -1 -4.82867e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: -1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 28.1868
+Normal: -1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: -1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 28.1868
+Normal: -1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 1 0 0
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 1 0 0
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 1 0 0
+UV: 0.495982 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 1 0 0
+UV: 0.495982 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: 0 1 -4.0188e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 0 0 1
+UV: 0.489377 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 0 0 1
+UV: 0.489377 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: 0 0 1
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: 0 0 1
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: -1 0 0
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 28.1868
+Normal: -1 0 0
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: -1 0 0
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 28.1868
+Normal: -1 0 0
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 28.1868
+Normal: 1 0 0
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 1 0 0
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 28.1868
+Normal: 1 0 0
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 1 0 0
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 0 0 1
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 0 0 1
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: 0 0 1
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: 0 0 1
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 146.13 -29.2476
+Normal: -1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 118.355 -29.2476
+Normal: -1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 146.13 -26.8977
+Normal: -1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 118.355 -26.8977
+Normal: -1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 -19.4104
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -19.4104
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 -26.8977
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -29.2476
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 -19.4104
+Normal: 0 0 1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 -19.4104
+Normal: 0 0 1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -19.4104
+Normal: 0 0 1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -19.4104
+Normal: 0 0 1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -29.2476
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -19.4104
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 -26.8977
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 -19.4104
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -19.4104
+Normal: 1 0 0
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -29.2476
+Normal: 1 0 0
+UV: 0.31245 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -19.4104
+Normal: 1 0 0
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -29.2476
+Normal: 1 0 0
+UV: 0.31245 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 146.13 -26.8977
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 146.13 -29.2476
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 118.355 -29.2476
+Normal: 0 0 -1
+UV: 0.318878 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 118.355 -29.2476
+Normal: 0 0 -1
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.3836 146.13 -29.2476
+Normal: 0 0 -1
+UV: 0.318878 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 146.13 -29.2476
+Normal: 0 0 -1
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 118.355 -29.2476
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.0191 118.355 -26.8977
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 146.13 -29.2476
+Normal: 1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 146.13 -26.8977
+Normal: 1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 118.355 -29.2476
+Normal: 1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 118.355 -26.8977
+Normal: 1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -29.2476
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -19.4104
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 146.13 -26.8977
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 146.13 -19.4104
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 146.13 -19.4104
+Normal: 0 0 1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -19.4104
+Normal: 0 0 1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 118.355 -19.4104
+Normal: 0 0 1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -19.4104
+Normal: 0 0 1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -29.2476
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 118.355 -26.8977
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -19.4104
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8814 118.355 -19.4104
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -19.4104
+Normal: -1 0 0
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -19.4104
+Normal: -1 0 0
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -29.2476
+Normal: -1 0 0
+UV: 0.495982 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -29.2476
+Normal: -1 0 0
+UV: 0.495982 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 146.13 -26.8977
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 146.13 -29.2476
+Normal: 0 1 4.01877e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 118.355 -29.2476
+Normal: 0 0 -1
+UV: 0.489377 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.4444 146.13 -29.2476
+Normal: 0 0 -1
+UV: 0.489377 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 118.355 -29.2476
+Normal: 0 0 -1
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 146.13 -29.2476
+Normal: 0 0 -1
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 118.355 -26.8977
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.9137 118.355 -29.2476
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 176.265 30.5368
+Normal: -1 0 0
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 176.265 28.1868
+Normal: -1 0 0
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 149.777 30.5368
+Normal: -1 0 0
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 149.777 28.1868
+Normal: -1 0 0
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 176.265 28.1868
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 176.265 30.5368
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 176.265 28.1868
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 176.265 30.5368
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 176.265 28.1868
+Normal: 1 0 0
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 176.265 30.5368
+Normal: 1 0 0
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 149.777 28.1868
+Normal: 1 0 0
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 149.777 30.5368
+Normal: 1 0 0
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 149.777 30.5368
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 149.777 28.1868
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 149.777 30.5368
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 149.777 28.1868
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 149.777 30.5368
+Normal: 0 0 1
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.3228 176.265 30.5368
+Normal: 0 0 1
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 149.777 30.5368
+Normal: 0 0 1
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 14.9287 176.265 30.5368
+Normal: 0 0 1
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 176.265 30.5368
+Normal: -1 0 0
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 176.265 28.1868
+Normal: -1 0 0
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 149.777 30.5368
+Normal: -1 0 0
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 149.777 28.1868
+Normal: -1 0 0
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 176.265 28.1868
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 176.265 30.5368
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 176.265 28.1868
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 176.265 30.5368
+Normal: 0 1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 176.265 28.1868
+Normal: 1 0 0
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 176.265 30.5368
+Normal: 1 0 0
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 149.777 28.1868
+Normal: 1 0 0
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 149.777 30.5368
+Normal: 1 0 0
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 149.777 30.5368
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 149.777 28.1868
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 149.777 30.5368
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 149.777 28.1868
+Normal: 0 -1 0
+UV: 0.374813 0.251064
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 149.777 30.5368
+Normal: 0 0 1
+UV: 0.375709 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -13.5608 176.265 30.5368
+Normal: 0 0 1
+UV: 0.375709 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 149.777 30.5368
+Normal: 0 0 1
+UV: 0.32182 0.301282
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9548 176.265 30.5368
+Normal: 0 0 1
+UV: 0.32182 0.249519
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -121.595 183.878 -14.0347
+Normal: 0.431792 -0.901973 0
+UV: 0.753231 0.81179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -121.595 183.878 14.0343
+Normal: 0.431792 -0.901973 0
+UV: 0.757362 0.81179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 -14.0347
+Normal: 0.431792 -0.901973 0
+UV: 0.753231 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 14.0343
+Normal: 0.431792 -0.901973 0
+UV: 0.757362 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 14.0343
+Normal: -1 0 0
+UV: 0.617636 0.650774
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 -14.0347
+Normal: -1 0 0
+UV: 0.676795 0.650774
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 14.0343
+Normal: -1 0 0
+UV: 0.617636 0.706803
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 -14.0347
+Normal: -1 0 0
+UV: 0.676795 0.706803
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 14.0343
+Normal: 0 0 1
+UV: 0.875511 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -121.595 183.878 14.0343
+Normal: 0 0 1
+UV: 0.883968 0.81369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 14.0343
+Normal: 0 0 1
+UV: 0.883968 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 183.878 -14.0347
+Normal: 0 0 -1
+UV: 0.787152 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -121.595 183.878 -14.0347
+Normal: 0 0 -1
+UV: 0.787152 0.81369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -153.17 168.762 -14.0347
+Normal: 0 0 -1
+UV: 0.791649 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 121.595 183.878 -14.0347
+Normal: -0.431792 -0.901973 0
+UV: 0.753231 0.81179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 -14.0347
+Normal: -0.431792 -0.901973 0
+UV: 0.753231 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 121.595 183.878 14.0343
+Normal: -0.431792 -0.901973 0
+UV: 0.757362 0.81179
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 14.0343
+Normal: -0.431792 -0.901973 0
+UV: 0.757362 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 183.878 14.0343
+Normal: 1 0 0
+UV: 0.618633 0.650774
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 14.0343
+Normal: 1 0 0
+UV: 0.618633 0.706803
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 183.878 -14.0347
+Normal: 1 0 0
+UV: 0.677379 0.650774
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 -14.0347
+Normal: 1 0 0
+UV: 0.677379 0.706803
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 14.0343
+Normal: 0 0 1
+UV: 0.875511 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 183.878 14.0343
+Normal: 0 0 1
+UV: 0.883968 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 121.595 183.878 14.0343
+Normal: 0 0 1
+UV: 0.883968 0.81369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 183.878 -14.0347
+Normal: 0 0 -1
+UV: 0.774463 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 153.17 168.762 -14.0347
+Normal: 0 0 -1
+UV: 0.77896 0.879104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 121.595 183.878 -14.0347
+Normal: 0 0 -1
+UV: 0.774463 0.81369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 31.6906
+Normal: 0 1 0
+UV: 0.503667 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 31.6906
+Normal: 0 1 0
+UV: 0.503668 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 -31.3639
+Normal: 0 1 0
+UV: 0.659915 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 -31.3639
+Normal: 0 1 0
+UV: 0.659915 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 11.5622
+Normal: 5.906e-008 -1.76201e-008 1
+UV: 0.756813 0.0543794
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 11.5622
+Normal: 5.90601e-008 -3.78894e-009 1
+UV: 0.756813 0.0527574
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 11.5622
+Normal: 5.90601e-008 3.78895e-009 1
+UV: 0.73862 0.0543793
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 11.5622
+Normal: 5.90601e-008 1.76202e-008 1
+UV: 0.73862 0.0527574
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 38.9174
+Normal: 0 -1 0
+UV: 0.738108 0.0541371
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 38.9174
+Normal: 0 -1 0
+UV: 0.758095 0.0541371
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 11.5622
+Normal: 0 -1 0
+UV: 0.738108 0.0526844
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 11.5622
+Normal: 0 -1 0
+UV: 0.758095 0.0526844
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 -38.5907
+Normal: 0 0 -1
+UV: 0.822818 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 -38.5907
+Normal: 0 0 -1
+UV: 0.66269 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 -38.5907
+Normal: 0 0 -1
+UV: 0.822818 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 -38.5907
+Normal: 0 0 -1
+UV: 0.662691 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 38.9174
+Normal: -1 0 5.57804e-007
+UV: 0.342203 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 38.9174
+Normal: -1 5.18298e-007 1.93173e-007
+UV: 0.342203 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 11.5622
+Normal: -1 2.33683e-007 -7.30359e-008
+UV: 0.399142 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 -38.5907
+Normal: -1 2.60111e-007 -2.04435e-007
+UV: 0.501119 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 38.9174
+Normal: 1 0 0
+UV: 0.182076 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 11.5622
+Normal: 1 9.27432e-008 0
+UV: 0.124703 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 38.9174
+Normal: 1 0 0
+UV: 0.182076 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 -38.5907
+Normal: 1 0 0
+UV: 0.0219482 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 38.9174
+Normal: 0 0 1
+UV: 0.182076 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 38.9174
+Normal: 1.3486e-007 0 1
+UV: 0.342203 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 38.9174
+Normal: 2.60671e-008 0 1
+UV: 0.182076 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 38.9174
+Normal: 1.60927e-007 0 1
+UV: 0.342203 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 258.247 -38.5907
+Normal: -1 0 -3.04246e-007
+UV: 0.501119 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 -38.5907
+Normal: -1 -1.74532e-007 -1.4475e-007
+UV: 0.501119 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 11.5622
+Normal: -1 -3.32928e-007 0
+UV: 0.399142 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 11.5622
+Normal: 0 -1 0
+UV: 0.925807 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 11.5622
+Normal: 0 -1 0
+UV: 0.925807 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 -38.5907
+Normal: 0 -1 0
+UV: 0.823052 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 204.123 -38.5907
+Normal: 0 -1 0
+UV: 0.823052 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 11.5622
+Normal: 1 8.55813e-008 0
+UV: 0.124703 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 258.247 -38.5907
+Normal: 1 6.89826e-008 0
+UV: 0.021948 0.0517634
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 204.123 -38.5907
+Normal: 1 0 0
+UV: 0.0219478 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 -38.5907
+Normal: 0 0 -1
+UV: 0.822818 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 -38.5907
+Normal: 0 0 -1
+UV: 0.662691 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 104.499 26.8977
+Normal: -1 -1.97498e-007 0
+UV: 0.505875 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 104.499 -26.8977
+Normal: -1 -8.8891e-008 0
+UV: 0.559317 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 58.5407 26.8977
+Normal: -1 -5.43034e-008 0
+UV: 0.505875 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 58.5407 -26.8977
+Normal: -1 0 0
+UV: 0.559317 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 58.5407 26.8977
+Normal: 1 0 0
+UV: 0.559317 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 58.5407 -26.8977
+Normal: 1 0 0
+UV: 0.505875 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 104.499 26.8977
+Normal: 1 0 0
+UV: 0.559317 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 104.499 -26.8977
+Normal: 1 0 0
+UV: 0.505875 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 12.5826 -26.8977
+Normal: 0 -1 0
+UV: 0.619098 0.640264
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 12.5826 26.8977
+Normal: 0 -1 0
+UV: 0.676307 0.640264
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 -26.8977
+Normal: 0 -1 0
+UV: 0.619098 0.601695
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 26.8977
+Normal: 0 -1 0
+UV: 0.676307 0.601695
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 58.5407 26.8977
+Normal: 0 0 1
+UV: 0.505875 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 58.5407 26.8977
+Normal: 0 0 1
+UV: 0.473201 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 104.499 26.8977
+Normal: 0 0 1
+UV: 0.505875 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 104.499 26.8977
+Normal: 0 0 1
+UV: 0.473201 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 104.499 -26.8977
+Normal: 0 0 -1
+UV: 0.42185 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 104.499 -26.8977
+Normal: 0 0 -1
+UV: 0.453596 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 58.5407 -26.8977
+Normal: 0 0 -1
+UV: 0.42185 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 58.5407 -26.8977
+Normal: 0 0 -1
+UV: 0.453596 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 58.5407 -26.8977
+Normal: 0 0 -1
+UV: 0.473201 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 104.499 -26.8977
+Normal: 0 0 -1
+UV: 0.473201 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 12.5826 26.8977
+Normal: 0 -1 0
+UV: 0.676307 0.664369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 12.5826 -26.8977
+Normal: 0 -1 0
+UV: 0.619098 0.664369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 104.499 26.8977
+Normal: 0 0 1
+UV: 0.453596 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 58.5407 26.8977
+Normal: 0 0 1
+UV: 0.453596 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 58.5407 -26.8977
+Normal: 0 0 -1
+UV: 0.505875 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 104.499 -26.8977
+Normal: 0 0 -1
+UV: 0.505875 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 26.8977
+Normal: 0 -1 0
+UV: 0.676307 0.704544
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 -26.8977
+Normal: 0 -1 0
+UV: 0.619098 0.704544
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 104.499 26.8977
+Normal: 0 0 1
+UV: 0.42185 0.459136
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 58.5407 26.8977
+Normal: 0 0 1
+UV: 0.42185 0.6925
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 26.8977
+Normal: -1 0 0
+UV: 0.505875 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 -26.8977
+Normal: -1 0 0
+UV: 0.559317 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 26.8977
+Normal: 0 0 1
+UV: 0.505875 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 12.5826 26.8977
+Normal: 0 0 1
+UV: 0.473201 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 12.5826 26.8977
+Normal: 0 0 1
+UV: 0.453596 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 26.8977
+Normal: 0 0 1
+UV: 0.42185 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 26.8977
+Normal: 1 0 0
+UV: 0.559317 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 -26.8977
+Normal: 1 0 0
+UV: 0.505875 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 42.1003 12.5826 -26.8977
+Normal: 0 0 -1
+UV: 0.505875 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 9.20943 12.5826 -26.8977
+Normal: 0 0 -1
+UV: 0.473201 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.5251 12.5826 -26.8977
+Normal: 0 0 -1
+UV: 0.453596 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -42.1003 12.5826 -26.8977
+Normal: 0 0 -1
+UV: 0.42185 0.751297
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 38.9174
+Normal: 0 1 3.09625e-006
+UV: 0.503667 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 38.9174
+Normal: 0 1 -6.8532e-006
+UV: 0.503668 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 31.6906
+Normal: 0 1 2.66793e-006
+UV: 0.503667 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 31.6906
+Normal: 0 1 -8.69939e-006
+UV: 0.503668 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1879 278.111 -38.5907
+Normal: 0 1 0
+UV: 0.659915 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 -31.3639
+Normal: 0 1 0
+UV: 0.659915 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1879 278.111 -38.5907
+Normal: 0 1 6.8532e-006
+UV: 0.659915 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 -31.3639
+Normal: 0 1 8.69939e-006
+UV: 0.659915 0.0106061
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 31.6906
+Normal: 9.33728e-008 0 1
+UV: 0.273589 0.00247645
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 31.6906
+Normal: 5.02049e-009 0 1
+UV: 0.22057 0.00247645
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 31.6906
+Normal: 8.83523e-008 0 1
+UV: 0.273589 0.0069654
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 31.6906
+Normal: 0 0 1
+UV: 0.22057 0.0069654
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 31.6906
+Normal: 1 0 0
+UV: 0.110228 0.0097478
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 -31.3639
+Normal: 1 0 0
+UV: 0.0564227 0.0097478
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 31.6906
+Normal: 1 0 0
+UV: 0.110228 0.0101904
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 -31.3639
+Normal: 1 0 0
+UV: 0.0564227 0.0101904
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 278.111 -31.3639
+Normal: 0 0 -1
+UV: 0.713749 0.0126638
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 -31.3639
+Normal: 0 0 -1
+UV: 0.766768 0.012664
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 31.0667 283.371 -31.3639
+Normal: 0 0 -1
+UV: 0.713748 0.00817478
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 -31.3639
+Normal: 0 0 -1
+UV: 0.766768 0.00817478
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 -31.3639
+Normal: -1 0 0
+UV: 0.0564227 0.0106713
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 278.111 31.6906
+Normal: -1 0 0
+UV: 0.110228 0.0106714
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 -31.3639
+Normal: -1 0 0
+UV: 0.0564227 0.0102288
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -31.0667 283.371 31.6906
+Normal: -1 0 0
+UV: 0.110228 0.0102288
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+4 6 5
+6 7 5
+8 10 9
+10 11 9
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+20 21 6
+21 7 6
+22 24 23
+24 25 23
+12 26 14
+26 27 14
+28 30 29
+30 31 29
+32 34 33
+34 35 33
+36 38 37
+38 39 37
+40 42 41
+42 43 41
+44 46 45
+46 47 45
+48 34 49
+34 32 49
+50 52 51
+52 53 51
+54 55 41
+55 40 41
+56 58 57
+58 59 57
+60 62 61
+62 63 61
+64 66 65
+66 67 65
+68 70 69
+70 71 69
+72 74 73
+74 75 73
+76 78 77
+78 79 77
+80 82 81
+82 83 81
+84 86 85
+86 87 85
+88 90 89
+90 91 89
+92 94 93
+94 95 93
+96 97 82
+97 83 82
+98 100 99
+100 101 99
+88 102 90
+102 103 90
+104 106 105
+106 107 105
+108 110 109
+110 111 109
+112 114 113
+114 115 113
+116 118 117
+118 119 117
+120 122 121
+122 123 121
+124 110 125
+110 108 125
+126 128 127
+128 129 127
+130 131 117
+131 116 117
+132 134 133
+134 135 133
+136 138 137
+138 139 137
+140 142 141
+142 143 141
+144 146 145
+146 147 145
+148 150 149
+150 151 149
+152 154 153
+154 155 153
+156 158 157
+158 159 157
+160 162 161
+162 163 161
+164 166 165
+166 167 165
+168 170 169
+170 171 169
+172 174 173
+174 175 173
+176 178 177
+178 179 177
+180 182 181
+183 185 184
+186 188 187
+188 189 187
+190 192 191
+192 193 191
+194 196 195
+197 199 198
+200 202 201
+202 203 201
+204 206 205
+206 207 205
+208 210 209
+210 211 209
+212 214 213
+214 215 213
+216 218 217
+218 219 217
+220 222 221
+222 223 221
+224 226 225
+226 227 225
+228 218 229
+218 230 229
+231 233 232
+233 234 232
+221 236 235
+236 237 235
+219 218 228
+214 238 215
+238 239 215
+221 223 236
+240 242 241
+242 243 241
+244 246 245
+246 247 245
+248 250 249
+250 251 249
+252 254 253
+254 255 253
+256 258 257
+258 259 257
+259 260 257
+260 261 257
+249 262 248
+262 263 248
+264 265 255
+265 253 255
+266 267 260
+267 261 260
+262 268 263
+268 269 263
+270 271 264
+271 265 264
+242 272 243
+272 273 243
+274 252 275
+252 253 275
+265 276 253
+276 275 253
+271 277 265
+277 276 265
+278 244 279
+244 245 279
+280 266 281
+266 260 281
+282 281 259
+281 260 259
+258 283 259
+283 282 259
+284 286 285
+286 287 285
+285 287 288
+287 289 288
+288 289 290
+289 291 290
+290 291 284
+291 286 284
+292 294 293
+294 295 293
+296 298 297
+298 299 297
+300 302 301
+302 303 301
+304 306 305
+306 307 305
+
+[BONE_HIERARCHY]
+
+[OFFSET_MATRIX]
+
+[ANIMATION_CLIPS]
+AnimationClip 
+{
+}
+[MESH_DATA]
+VertexCount: 254
+IndexCount: 414
+BoneCount: 0
+AnimationClips: 1
+
+[VERTEX_DATA]
+Position: 17.2831 146.13 -30.5368
+Normal: -1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 118.355 -30.5368
+Normal: -1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 146.13 -28.1868
+Normal: -1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 118.355 -28.1868
+Normal: -1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 146.13 -20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 146.13 -28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 146.13 -20.6995
+Normal: 0 0 1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 118.355 -20.6995
+Normal: 0 0 1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -20.6995
+Normal: 0 0 1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -20.6995
+Normal: 0 0 1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 118.355 -28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.9421 118.355 -20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -20.6995
+Normal: 1 0 0
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -30.5368
+Normal: 1 0 0
+UV: 0.31245 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -20.6995
+Normal: 1 0 0
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -30.5368
+Normal: 1 0 0
+UV: 0.31245 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 146.13 -28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 146.13 -30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 -30.5368
+Normal: 0 0 -1
+UV: 0.318878 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 118.355 -30.5368
+Normal: 0 0 -1
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 -30.5368
+Normal: 0 0 -1
+UV: 0.318878 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 146.13 -30.5368
+Normal: 0 0 -1
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 118.355 -30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 17.2831 118.355 -28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 146.13 -30.5368
+Normal: 1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 146.13 -28.1868
+Normal: 1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 118.355 -30.5368
+Normal: 1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 118.355 -28.1868
+Normal: 1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 146.13 -28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 146.13 -20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 146.13 -20.6995
+Normal: 0 0 1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -20.6995
+Normal: 0 0 1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 118.355 -20.6995
+Normal: 0 0 1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -20.6995
+Normal: 0 0 1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 118.355 -28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8206 118.355 -20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -20.6995
+Normal: -1 0 0
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -20.6995
+Normal: -1 0 0
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -30.5368
+Normal: -1 0 0
+UV: 0.495982 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -30.5368
+Normal: -1 0 0
+UV: 0.495982 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 146.13 -28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 146.13 -30.5368
+Normal: 0 1 4.0188e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 -30.5368
+Normal: 0 0 -1
+UV: 0.489377 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 -30.5368
+Normal: 0 0 -1
+UV: 0.489377 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 118.355 -30.5368
+Normal: 0 0 -1
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 146.13 -30.5368
+Normal: 0 0 -1
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 118.355 -28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -19.8529 118.355 -30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 -11.5741
+Normal: 0 0 -1
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 -11.5741
+Normal: 0 0 -1
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 81.523 -11.5741
+Normal: 0 0 -1
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 53.1695 -11.5741
+Normal: 0 0 -1
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 81.523 -11.5741
+Normal: 0 1 0
+UV: 0.284555 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 81.523 10.8371
+Normal: 0 1 0
+UV: 0.307265 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 -11.5741
+Normal: 0 1 0
+UV: 0.284555 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 10.8371
+Normal: 0 1 0
+UV: 0.307265 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 81.523 10.8371
+Normal: 0 0 1
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 53.1695 10.8371
+Normal: 0 0 1
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 10.8371
+Normal: 0 0 1
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 10.8371
+Normal: 0 0 1
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 -11.5741
+Normal: 0 -1 0
+UV: 0.275956 0.604522
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 10.8371
+Normal: 0 -1 0
+UV: 0.275956 0.581812
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 53.1695 -11.5741
+Normal: 0 -1 0
+UV: 0.275956 0.604522
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.7739 53.1695 10.8371
+Normal: 0 -1 0
+UV: 0.275956 0.581812
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 10.8371
+Normal: 1 0 0
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 53.1695 -11.5741
+Normal: 1 0 0
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 10.8371
+Normal: 1 0 0
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.1238 81.523 -11.5741
+Normal: 1 0 0
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 -10.155
+Normal: 0 0 -1
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 81.523 -10.155
+Normal: 0 0 -1
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 -10.155
+Normal: 0 0 -1
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 53.1695 -10.155
+Normal: 0 0 -1
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 81.523 -10.155
+Normal: 0 1 0
+UV: 0.284555 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 -10.155
+Normal: 0 1 0
+UV: 0.284555 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 81.523 12.2563
+Normal: 0 1 0
+UV: 0.307265 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 12.2563
+Normal: 0 1 0
+UV: 0.307265 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 81.523 12.2563
+Normal: 0 0 1
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 12.2563
+Normal: 0 0 1
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 53.1695 12.2563
+Normal: 0 0 1
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 12.2563
+Normal: 0 0 1
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 -10.155
+Normal: 0 -1 0
+UV: 0.275956 0.604522
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 53.1695 -10.155
+Normal: 0 -1 0
+UV: 0.275956 0.604522
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 12.2563
+Normal: 0 -1 0
+UV: 0.275956 0.581812
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.7739 53.1695 12.2563
+Normal: 0 -1 0
+UV: 0.275956 0.581812
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 12.2563
+Normal: -1 0 0
+UV: 0.321347 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 12.2563
+Normal: -1 0 0
+UV: 0.321347 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 53.1695 -10.155
+Normal: -1 0 0
+UV: 0.275956 0.625583
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.1238 81.523 -10.155
+Normal: -1 0 0
+UV: 0.275956 0.568973
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 30.5368
+Normal: 1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 28.1868
+Normal: 1 0 0
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 28.1868
+Normal: 1 0 0
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -43.8813 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 20.6995
+Normal: -1 0 0
+UV: 0.302651 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: -1 0 0
+UV: 0.31245 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 20.6995
+Normal: -1 0 0
+UV: 0.302651 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: -1 0 0
+UV: 0.31245 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 118.355 30.5368
+Normal: 0 0 1
+UV: 0.318878 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 0 0 1
+UV: 0.366072 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -46.3836 146.13 30.5368
+Normal: 0 0 1
+UV: 0.318878 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 146.13 30.5368
+Normal: 0 0 1
+UV: 0.366072 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 30.5368
+Normal: 0 -1 -4.82867e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -18.6191 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: -1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 28.1868
+Normal: -1 0 0
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: -1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 28.1868
+Normal: -1 0 0
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 20.6995
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 0 0 -1
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 43.8813 118.355 20.6995
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 20.6995
+Normal: 1 0 0
+UV: 0.506549 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 20.6995
+Normal: 1 0 0
+UV: 0.506549 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 1 0 0
+UV: 0.495982 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 1 0 0
+UV: 0.495982 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: 0 1 -4.0188e-007
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 118.355 30.5368
+Normal: 0 0 1
+UV: 0.489377 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 46.4444 146.13 30.5368
+Normal: 0 0 1
+UV: 0.489377 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: 0 0 1
+UV: 0.44248 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 146.13 30.5368
+Normal: 0 0 1
+UV: 0.44248 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 19.9137 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: -1 0 0
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 28.1868
+Normal: -1 0 0
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: -1 0 0
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 28.1868
+Normal: -1 0 0
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 28.1868
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 0 1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 28.1868
+Normal: 1 0 0
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 1 0 0
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 28.1868
+Normal: 1 0 0
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 1 0 0
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 28.1868
+Normal: 0 -1 0
+UV: 0.434017 0.311168
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 118.355 30.5368
+Normal: 0 0 1
+UV: 0.436096 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 16.2836 146.13 30.5368
+Normal: 0 0 1
+UV: 0.436096 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 118.355 30.5368
+Normal: 0 0 1
+UV: 0.372027 0.36622
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -15.6202 146.13 30.5368
+Normal: 0 0 1
+UV: 0.372027 0.309533
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56606 293.109 -2.56201
+Normal: -1 0 3.11014e-006
+UV: 0.443317 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56609 289.952 -14.5801
+Normal: -1 7.13768e-007 3.17139e-006
+UV: 0.425675 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56605 288.12 -1.2514
+Normal: -1 2.38532e-007 3.13061e-006
+UV: 0.444988 0.890325
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56609 284.963 -13.2695
+Normal: -1 9.52297e-007 3.19186e-006
+UV: 0.424187 0.890325
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 288.12 -1.25139
+Normal: 1 -5.95189e-008 3.71148e-008
+UV: 0.444988 0.869861
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 284.963 -13.2695
+Normal: 1 1.63535e-007 -8.30998e-009
+UV: 0.424187 0.869861
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 293.109 -2.562
+Normal: 1 1.50221e-008 2.19346e-008
+UV: 0.443317 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 289.952 -14.5801
+Normal: 1 2.38076e-007 -2.34902e-008
+UV: 0.425675 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 288.12 -1.25139
+Normal: 5.09597e-007 0.254095 0.967179
+UV: 0.444988 0.869861
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 293.109 -2.562
+Normal: 3.93877e-007 0.254095 0.967179
+UV: 0.443317 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56605 288.12 -1.2514
+Normal: 1.44172e-007 0.254096 0.967179
+UV: 0.444988 0.890325
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56606 293.109 -2.56201
+Normal: 2.84518e-008 0.254097 0.967179
+UV: 0.443317 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 293.109 -2.562
+Normal: 4.81893e-006 0.96718 -0.254093
+UV: 0.443317 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 289.952 -14.5801
+Normal: 4.69254e-006 0.967179 -0.254096
+UV: 0.425675 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56606 293.109 -2.56201
+Normal: 4.6851e-006 0.967179 -0.254097
+UV: 0.443317 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56609 289.952 -14.5801
+Normal: 4.55871e-006 0.967178 -0.2541
+UV: 0.425675 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 289.952 -14.5801
+Normal: -1.28392e-006 -0.254093 -0.96718
+UV: 0.425675 0.871123
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 5.43099 284.963 -13.2695
+Normal: -1.30358e-006 -0.254094 -0.96718
+UV: 0.424187 0.869861
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56609 289.952 -14.5801
+Normal: -1.34601e-006 -0.254095 -0.967179
+UV: 0.425675 0.888806
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -7.56609 284.963 -13.2695
+Normal: -1.36567e-006 -0.254095 -0.967179
+UV: 0.424187 0.890325
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 242.111 -36.2757
+Normal: 1 1.58036e-007 0
+UV: 0.374974 0.997104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 270.126 39.441
+Normal: 1 -3.64802e-008 0
+UV: 0.495444 0.989699
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 269.537 68.1172
+Normal: 1 -1.91387e-007 0
+UV: 0.538268 0.997104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 277.135 66.1209
+Normal: 1 -3.52037e-007 0
+UV: 0.538268 0.989699
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 278.626 -45.869
+Normal: 0 0.967179 -0.254095
+UV: 0.374974 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 299.043 31.844
+Normal: 0 0.967179 -0.254096
+UV: 0.495444 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 278.626 -45.869
+Normal: 0 0.967179 -0.254096
+UV: 0.374974 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 299.043 31.844
+Normal: 0 0.967179 -0.254096
+UV: 0.495444 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 277.135 66.1209
+Normal: -1 -4.22444e-007 0
+UV: 0.538268 0.989699
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 270.126 39.441
+Normal: -1 2.92713e-008 0
+UV: 0.495444 0.989699
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 269.537 68.1172
+Normal: -1 -2.29664e-007 0
+UV: 0.538268 0.997104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 242.111 -36.2757
+Normal: -1 1.58036e-007 0
+UV: 0.374974 0.997104
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 242.111 -36.2757
+Normal: 0 -0.967179 0.254096
+UV: 0.554392 0.98786
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 269.537 68.1172
+Normal: 6.01038e-008 -0.967179 0.254096
+UV: 0.554392 0.992194
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 242.111 -36.2757
+Normal: 4.03304e-008 -0.967179 0.254096
+UV: 0.557557 0.98786
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 269.537 68.1172
+Normal: 1.00434e-007 -0.967179 0.254096
+UV: 0.557557 0.992194
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 269.537 68.1172
+Normal: 2.95676e-007 0.254095 0.967179
+UV: 0.503716 0.826323
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 277.135 66.1209
+Normal: 2.89442e-007 0.254096 0.967179
+UV: 0.497864 0.826323
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 269.537 68.1172
+Normal: 2.0335e-007 0.254097 0.967179
+UV: 0.503716 0.937521
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 277.135 66.1209
+Normal: 1.97117e-007 0.254097 0.967179
+UV: 0.497864 0.937521
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 277.135 66.1209
+Normal: -2.80698e-008 0.967179 -0.254096
+UV: 0.48202 0.940205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 277.135 66.1209
+Normal: -6.01565e-009 0.967179 -0.254096
+UV: 0.48202 0.829007
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 270.126 39.441
+Normal: -2.20542e-008 0.967179 -0.254096
+UV: 0.469293 0.940205
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 270.126 39.441
+Normal: 0 0.967179 -0.254096
+UV: 0.469294 0.829007
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 278.626 -45.869
+Normal: 1 1.01888e-007 0
+UV: 0.374974 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 299.043 31.844
+Normal: 1 -1.52441e-007 0
+UV: 0.495444 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 278.626 -45.869
+Normal: 0 -0.254096 -0.967179
+UV: 0.374974 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 278.626 -45.869
+Normal: 0 -0.254096 -0.967179
+UV: 0.374974 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 242.111 -36.2757
+Normal: 0 -0.254096 -0.967179
+UV: 0.342991 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 242.111 -36.2757
+Normal: 0 -0.254096 -0.967179
+UV: 0.342991 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 299.043 31.844
+Normal: -1 0 0
+UV: 0.495444 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 278.626 -45.869
+Normal: -1 1.30621e-007 0
+UV: 0.374974 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 270.126 39.441
+Normal: 0 0.254096 0.967179
+UV: 0.54822 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 270.126 39.441
+Normal: 0 0.254096 0.967179
+UV: 0.54822 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.4123 299.043 31.844
+Normal: 0 0.254096 0.967179
+UV: 0.495444 0.950177
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.4123 299.043 31.844
+Normal: 0 0.254096 0.967179
+UV: 0.495444 0.806996
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 35.7184
+Normal: 0 0 1
+UV: 0.262516 0.172414
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 35.7184
+Normal: 0 0 1
+UV: 0.287824 0.16753
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 35.7184
+Normal: 0 0 1
+UV: 0.237207 0.16753
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 22.9763
+Normal: -4.72459e-008 0 -1
+UV: 0.44003 0.0509995
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 22.9763
+Normal: 4.72459e-008 0 -1
+UV: 0.44003 0.101616
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 22.9763
+Normal: 0 0 -1
+UV: 0.450746 0.0763078
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 22.9763
+Normal: 0.198338 -0.980134 0
+UV: 0.451055 0.0763369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 22.9763
+Normal: 0.198338 -0.980134 0
+UV: 0.451055 0.101645
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 35.7184
+Normal: 0.198338 -0.980134 0
+UV: 0.460125 0.0763369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 35.7184
+Normal: 0.198338 -0.980134 0
+UV: 0.460125 0.101645
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 35.7184
+Normal: 1 0 0
+UV: 0.460368 0.101576
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 22.9763
+Normal: 1 0 0
+UV: 0.469438 0.101576
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 35.7184
+Normal: 1 0 0
+UV: 0.460368 0.0908597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 204.123 22.9763
+Normal: 1 0 0
+UV: 0.469438 0.0908597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 22.9763
+Normal: -1 0 0
+UV: 0.469681 0.101576
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 35.7184
+Normal: -1 0 0
+UV: 0.47875 0.101576
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 22.9763
+Normal: -1 0 0
+UV: 0.469681 0.0908597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 204.123 35.7184
+Normal: -1 0 0
+UV: 0.47875 0.0908597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 22.9763
+Normal: -0.198338 -0.980134 0
+UV: 0.451055 0.0510286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 22.9763
+Normal: -0.198338 -0.980134 0
+UV: 0.451055 0.0763369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 35.7184
+Normal: -0.198338 -0.980134 0
+UV: 0.460125 0.0510286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0 189.068 35.7184
+Normal: -0.198338 -0.980134 0
+UV: 0.460125 0.0763369
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 35.7184
+Normal: 0 0 1
+UV: 0.237207 0.172414
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 35.7184
+Normal: 0 0 1
+UV: 0.287824 0.172414
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -35.555 196.262 22.9763
+Normal: -1.09192e-007 0 -1
+UV: 0.450746 0.0509995
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 35.555 196.262 22.9763
+Normal: 1.09192e-007 0 -1
+UV: 0.450746 0.101616
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+4 6 5
+6 7 5
+8 10 9
+10 11 9
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+20 21 6
+21 7 6
+22 24 23
+24 25 23
+12 26 14
+26 27 14
+28 30 29
+30 31 29
+32 34 33
+34 35 33
+36 38 37
+38 39 37
+40 42 41
+42 43 41
+44 46 45
+46 47 45
+48 34 49
+34 32 49
+50 52 51
+52 53 51
+54 55 41
+55 40 41
+56 58 57
+58 59 57
+60 62 61
+62 63 61
+64 66 65
+66 67 65
+68 70 69
+70 71 69
+72 74 73
+74 75 73
+76 78 77
+78 79 77
+80 82 81
+82 83 81
+84 86 85
+86 87 85
+88 90 89
+90 91 89
+92 94 93
+94 95 93
+96 98 97
+98 99 97
+100 102 101
+102 103 101
+104 106 105
+106 107 105
+108 110 109
+110 111 109
+112 114 113
+114 115 113
+116 117 102
+117 103 102
+118 120 119
+120 121 119
+108 122 110
+122 123 110
+124 126 125
+126 127 125
+128 130 129
+130 131 129
+132 134 133
+134 135 133
+136 138 137
+138 139 137
+140 142 141
+142 143 141
+144 130 145
+130 128 145
+146 148 147
+148 149 147
+150 151 137
+151 136 137
+152 154 153
+154 155 153
+156 158 157
+158 159 157
+160 162 161
+162 163 161
+164 166 165
+166 167 165
+168 170 169
+170 171 169
+172 174 173
+174 175 173
+176 178 177
+178 179 177
+180 182 181
+182 183 181
+184 186 185
+186 187 185
+188 190 189
+190 191 189
+192 194 193
+194 195 193
+196 198 197
+198 199 197
+200 202 201
+202 203 201
+204 206 205
+206 207 205
+208 210 209
+210 211 209
+212 214 213
+214 215 213
+192 193 216
+193 217 216
+218 220 219
+220 221 219
+222 201 223
+201 203 223
+224 226 225
+226 227 225
+228 230 229
+231 233 232
+234 236 235
+236 237 235
+238 240 239
+240 241 239
+242 244 243
+244 245 243
+246 248 247
+248 249 247
+250 230 228
+228 229 251
+231 252 233
+233 253 232
+
+[BONE_HIERARCHY]
+
+[OFFSET_MATRIX]
+
+[ANIMATION_CLIPS]
+AnimationClip  
+{
+}
+[MESH_DATA]
+VertexCount: 223
+IndexCount: 351
+BoneCount: 0
+AnimationClips: 1
+
+[VERTEX_DATA]
+Position: -45.6338 134.88 29.7585
+Normal: -1 0 0
+UV: 0.314054 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 134.88 -29.7585
+Normal: -1 0 0
+UV: 0.199804 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 29.7585
+Normal: -1 0 0
+UV: 0.314054 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 -29.7585
+Normal: -1 0 0
+UV: 0.199804 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 -29.7585
+Normal: 0 1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 29.7585
+Normal: 0 1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 -29.7585
+Normal: 0 1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 29.7585
+Normal: 0 1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 -29.7585
+Normal: 1 -6.79581e-007 0
+UV: 0.606167 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 29.7585
+Normal: 1 -6.79581e-007 0
+UV: 0.491918 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 -29.7585
+Normal: 1 -6.79581e-007 0
+UV: 0.606167 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 29.7585
+Normal: 1 -6.79581e-007 0
+UV: 0.491918 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 29.7585
+Normal: 8.35936e-008 -1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 -29.7585
+Normal: 8.35936e-008 -1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 29.7585
+Normal: 8.35936e-008 -1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 -29.7585
+Normal: 8.35936e-008 -1 0
+UV: 0.494236 0.355528
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 29.7585
+Normal: -2.43526e-008 0 1
+UV: 0.491918 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 29.7585
+Normal: -2.23137e-008 0 1
+UV: 0.491918 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 29.7585
+Normal: -2.03884e-009 0 1
+UV: 0.314054 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 134.88 29.7585
+Normal: 0 0 1
+UV: 0.314054 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 134.88 -29.7585
+Normal: 0 0 -1
+UV: 0.199804 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 -29.7585
+Normal: -2.23137e-008 0 -1
+UV: 0.0219398 0.332984
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 122.808 -29.7585
+Normal: -2.03884e-009 0 -1
+UV: 0.199804 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6338 122.808 -29.7585
+Normal: -2.43526e-008 0 -1
+UV: 0.0219398 0.357292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 29.7585
+Normal: -1 0 0
+UV: 0.314054 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 -29.7585
+Normal: -1 0 0
+UV: 0.199804 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 29.7585
+Normal: -1 0 0
+UV: 0.314054 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 -29.7585
+Normal: -1 0 0
+UV: 0.199804 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 -29.7585
+Normal: 0 0 -1
+UV: 0.199804 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 -29.7585
+Normal: 0 0 -1
+UV: 0.0219398 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 -29.7585
+Normal: 0 0 -1
+UV: 0.199804 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 -29.7585
+Normal: 0 0 -1
+UV: 0.0219398 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 -29.7585
+Normal: 1 0 0
+UV: 0.606167 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 29.7585
+Normal: 1 0 0
+UV: 0.491918 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 -29.7585
+Normal: 1 0 0
+UV: 0.606167 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 29.7585
+Normal: 1 0 0
+UV: 0.491918 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 29.7585
+Normal: 0 0 1
+UV: 0.314054 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 29.7585
+Normal: 0 0 1
+UV: 0.491918 0.303292
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 161.255 29.7585
+Normal: 0 0 1
+UV: 0.314054 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 161.255 29.7585
+Normal: 0 0 1
+UV: 0.491918 0.279879
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 -29.7585
+Normal: 0 -1 0
+UV: 0.469452 0.302713
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 149.626 29.7585
+Normal: 0 -1 0
+UV: 0.46159 0.302713
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 -29.7585
+Normal: 0 -1 0
+UV: 0.469452 0.303073
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 149.626 29.7585
+Normal: 0 -1 0
+UV: 0.46159 0.303073
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 29.7585
+Normal: 0 1 0
+UV: 0.461505 0.302713
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 45.6339 134.88 -29.7585
+Normal: 0 1 0
+UV: 0.453642 0.302713
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 134.88 29.7585
+Normal: 0 1 0
+UV: 0.461505 0.303073
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -45.6338 134.88 -29.7585
+Normal: 0 1 0
+UV: 0.453642 0.303073
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 29.8106
+Normal: 0 0 1
+UV: 0.510897 0.673403
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 209.177 29.8106
+Normal: 0 0 1
+UV: 0.510897 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 29.8106
+Normal: 0 0 1
+UV: 0.482062 0.673403
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 29.8106
+Normal: 0 0 1
+UV: 0.482062 0.615172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 29.8106
+Normal: 0 1 0
+UV: 0.563112 0.670888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 209.177 29.8106
+Normal: 0 1 0
+UV: 0.563112 0.673507
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 -33.0769
+Normal: 0 1 0
+UV: 0.57327 0.670888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 209.177 -33.0769
+Normal: 0 1 0
+UV: 0.57327 0.673507
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 -33.0769
+Normal: 0 0 -1
+UV: 0.613884 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 209.177 -33.0769
+Normal: 0 0 -1
+UV: 0.579519 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 -33.0769
+Normal: -2.33242e-008 0 -1
+UV: 0.613885 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 -33.0769
+Normal: 0 0 -1
+UV: 0.57952 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 -33.0769
+Normal: -0.224199 -0.974543 0
+UV: 0.563655 0.671418
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 -33.0769
+Normal: -0.224199 -0.974543 0
+UV: 0.563655 0.6736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 29.8106
+Normal: -0.224199 -0.974543 0
+UV: 0.572596 0.671418
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 29.8106
+Normal: -0.224199 -0.974543 0
+UV: 0.572596 0.6736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 29.8106
+Normal: 1 0 0
+UV: 0.407449 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 -33.0769
+Normal: 1 0 0
+UV: 0.476639 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 29.8106
+Normal: 1 0 0
+UV: 0.407449 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 -33.0769
+Normal: 1 0 0
+UV: 0.476639 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 -33.0769
+Normal: -1 0 0
+UV: 0.407449 0.673404
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 186.434 29.8106
+Normal: -1 0 0
+UV: 0.476639 0.673403
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 -33.0769
+Normal: -1 0 0
+UV: 0.407449 0.615172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.9082 209.177 29.8106
+Normal: -1 0 0
+UV: 0.476639 0.615172
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 29.8106
+Normal: 0 0 1
+UV: 0.539732 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 29.8106
+Normal: 0 0 1
+UV: 0.539732 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 -33.0769
+Normal: 0 1 0
+UV: 0.57327 0.676127
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 29.8106
+Normal: 0 1 0
+UV: 0.563112 0.676127
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 -33.0769
+Normal: 2.33242e-008 0 -1
+UV: 0.545154 0.673402
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 209.177 -33.0769
+Normal: 0 0 -1
+UV: 0.545154 0.615171
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 29.8106
+Normal: 0.224199 -0.974543 0
+UV: 0.572596 0.6736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 0.555027 177.125 -33.0769
+Normal: 0.224199 -0.974543 0
+UV: 0.563655 0.6736
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 29.8106
+Normal: 0.224199 -0.974543 0
+UV: 0.572596 0.675781
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 41.0183 186.434 -33.0769
+Normal: 0.224199 -0.974543 0
+UV: 0.563655 0.675781
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 30.5238
+Normal: -1 0 0
+UV: 0.408545 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -10.6902
+Normal: -1 0 0
+UV: 0.45019 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 30.5238
+Normal: -1 0 0
+UV: 0.408545 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 -10.6902
+Normal: -1 0 0
+UV: 0.45019 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 30.5238
+Normal: 4.4248e-007 0 1
+UV: 0.543819 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 30.5238
+Normal: 4.42478e-007 0 1
+UV: 0.477874 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 30.5238
+Normal: 4.4248e-007 0 1
+UV: 0.543819 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 4.42478e-007 0 1
+UV: 0.477874 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -10.6902
+Normal: 1 6.87588e-007 0
+UV: 0.428195 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 1 7.84206e-008 0
+UV: 0.469841 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 -10.6902
+Normal: 1 6.09168e-007 0
+UV: 0.428195 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 30.5238
+Normal: 1 0 0
+UV: 0.469841 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -30.1371
+Normal: -2.23173e-007 -1.66705e-006 -1
+UV: 0.613936 0.64202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 275.232 -30.1371
+Normal: -2.01578e-007 -1.50575e-006 -1
+UV: 0.613936 0.656642
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -30.1371
+Normal: -2.15938e-008 -1.61301e-007 -1
+UV: 0.545557 0.64202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 275.232 -30.1371
+Normal: 0 0 -1
+UV: 0.545557 0.656642
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 0 1 0
+UV: 0.524451 0.170606
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -10.6902
+Normal: 0 1 0
+UV: 0.603828 0.170606
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 30.5238
+Normal: 0 1 0
+UV: 0.524451 0.0537761
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -10.6902
+Normal: 0 1 0
+UV: 0.603828 0.0537765
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 -35.812
+Normal: -1 9.03528e-008 0
+UV: 0.501119 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 37.7191
+Normal: -1 6.52423e-008 -2.88358e-008
+UV: 0.342203 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -35.812
+Normal: -1 7.15126e-008 -1.12682e-008
+UV: 0.501119 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 232.392 37.7191
+Normal: -1 -1.04748e-008 -1.09096e-007
+UV: 0.342203 0.11816
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 244.664 21.4547
+Normal: -1 -2.0288e-006 -1.10585e-006
+UV: 0.374079 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -10.9327
+Normal: -1 0 0
+UV: 0.444262 0.0146445
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -35.812
+Normal: 0 1 0
+UV: 0.659915 0.0147605
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -10.9327
+Normal: 0 1 0
+UV: 0.604351 0.0147598
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -35.812
+Normal: 0 1 0
+UV: 0.659915 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -10.9327
+Normal: 0 1 0
+UV: 0.604351 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -10.9327
+Normal: -0.594942 0.563399 0.573259
+UV: 0.0818054 0.0146445
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 -10.9327
+Normal: -0.586164 0.568238 0.577509
+UV: 0.0818054 0.0147254
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 244.664 21.4547
+Normal: 0.227883 0.705693 0.67087
+UV: 0.150062 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 244.944 21.7576
+Normal: 0.253399 0.701756 0.665829
+UV: 0.150062 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 37.7191
+Normal: 0 -1 0
+UV: 0.983179 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 10.374 204.123 37.7191
+Normal: 0 -1 0
+UV: 0.983179 0.118185
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 -35.812
+Normal: 0 -1 0
+UV: 0.823052 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 1.85828e-013 204.123 24.0357
+Normal: 0 -1 0
+UV: 0.983179 0.0948248
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 259.278 37.7191
+Normal: 0 -3.44201e-014 1
+UV: 0.342203 0.050687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 259.278 37.7191
+Normal: 8.30114e-008 -1.46287e-014 1
+UV: 0.182076 0.050687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 37.7191
+Normal: 1.32342e-008 -3.12648e-014 1
+UV: 0.342203 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 37.7191
+Normal: 9.62457e-008 -1.14734e-014 1
+UV: 0.182076 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 -35.812
+Normal: 0 0 -1
+UV: 0.66269 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -35.812
+Normal: 0 0 -1
+UV: 0.662691 0.014994
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 -35.812
+Normal: 0 0 -1
+UV: 0.822818 0.175122
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -35.812
+Normal: 0 0 -1
+UV: 0.822818 0.0149941
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.374 204.123 37.7191
+Normal: 0 0 1
+UV: 0.2855 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 232.392 37.7191
+Normal: 0 0 1
+UV: 0.342203 0.11816
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 37.7191
+Normal: 0 0 1
+UV: 0.342203 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 232.392 37.7191
+Normal: 0 0 1
+UV: 0.182076 0.11816
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 10.374 204.123 37.7191
+Normal: 0 0 1
+UV: 0.238779 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 37.7191
+Normal: 0 0 1
+UV: 0.182076 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -10.9327
+Normal: 0.59494 0.563403 0.573257
+UV: 0.444262 0.0146445
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 244.664 21.4547
+Normal: -0.227885 0.705691 0.670871
+UV: 0.374079 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 -10.9326
+Normal: 0.586162 0.568242 0.577508
+UV: 0.444262 0.0147253
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 244.944 21.7576
+Normal: -0.253401 0.701754 0.66583
+UV: 0.374079 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -35.812
+Normal: 1 2.00279e-007 0
+UV: 0.0219482 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -10.9327
+Normal: 1 2.64054e-007 -1.17543e-007
+UV: 0.0818054 0.0146445
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 -35.812
+Normal: 1 2.30402e-007 -1.04778e-007
+UV: 0.0219478 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 244.664 21.4547
+Normal: 1 3.24452e-007 -1.2334e-007
+UV: 0.150062 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 204.123 37.7191
+Normal: 1 0 0
+UV: 0.182076 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 232.392 37.7191
+Normal: 1 1.27448e-007 0
+UV: 0.182076 0.11816
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 277.618 -10.9327
+Normal: 0 0 1
+UV: 0.604351 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 277.618 -10.9327
+Normal: 2.94376e-008 2.28434e-006 1
+UV: 0.604351 0.0147598
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 -10.9327
+Normal: 2.66726e-010 2.06978e-008 1
+UV: 0.603692 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 -10.9326
+Normal: 3.02651e-008 2.34855e-006 1
+UV: 0.603692 0.0147597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 232.392 37.7191
+Normal: -0.607403 0.627635 0.486966
+UV: 0.156295 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 229.315 24.0357
+Normal: -0.610131 0.627502 0.483717
+UV: 0.156295 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 10.374 204.123 37.7191
+Normal: -0.617174 0.627101 0.475226
+UV: 0.156524 0.151727
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 1.85828e-013 204.123 24.0357
+Normal: -0.620872 0.626858 0.470709
+UV: 0.156524 0.151821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 232.392 37.7191
+Normal: 0.587265 0.606827 0.535613
+UV: 0.156295 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.374 204.123 37.7191
+Normal: 0.621084 0.604826 0.498437
+UV: 0.156524 0.151915
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 229.315 24.0357
+Normal: 0.597013 0.606415 0.525201
+UV: 0.156295 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 1.85828e-013 204.123 24.0357
+Normal: 0.635419 0.603467 0.481737
+UV: 0.156524 0.151821
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 232.392 37.7191
+Normal: 0.564093 0.659134 0.497334
+UV: 0.156295 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 229.315 24.0357
+Normal: 0.441916 0.567657 0.694604
+UV: 0.156295 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 244.664 21.4547
+Normal: 0.444431 0.569675 0.69134
+UV: 0.156156 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 244.664 19.1766
+Normal: 0.137377 0.29895 0.944329
+UV: 0.156156 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 232.392 37.7191
+Normal: -0.603083 0.636757 0.480449
+UV: 0.156295 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 244.664 21.4547
+Normal: -0.472047 0.550899 0.688245
+UV: 0.156156 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 229.315 24.0357
+Normal: -0.490033 0.563575 0.66502
+UV: 0.156295 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4348 244.664 19.1766
+Normal: -0.151713 0.298318 0.942332
+UV: 0.156156 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 39.5847 244.664 21.4547
+Normal: -0.0721507 -0.891044 0.448147
+UV: 0.156156 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 244.944 21.7576
+Normal: -0.104574 -0.796213 0.59591
+UV: 0.156154 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4348 244.664 19.1766
+Normal: -0.11465 -0.758939 0.640989
+UV: 0.156156 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 250.267 25.8016
+Normal: -0.114758 -0.758518 0.641468
+UV: 0.156105 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 244.944 21.7576
+Normal: 0.0889589 -0.741056 0.665524
+UV: 0.156154 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 250.267 25.8016
+Normal: 0.0828161 -0.74535 0.66151
+UV: 0.156105 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 259.278 37.7191
+Normal: 0.0835357 -0.74485 0.661982
+UV: 0.156023 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 255.869 32.4266
+Normal: 0.0577279 -0.762286 0.644661
+UV: 0.156054 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 259.278 37.7191
+Normal: 0 -0.84071 0.541485
+UV: 0.156023 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 255.869 32.4266
+Normal: 0 -0.84071 0.541485
+UV: 0.156054 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 259.278 37.7191
+Normal: 0 -0.840711 0.541485
+UV: 0.156023 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 255.869 32.4266
+Normal: 0 -0.840711 0.541485
+UV: 0.156054 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 -10.9326
+Normal: -1 6.47152e-007 0
+UV: 0.444262 0.0147253
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 244.944 21.7576
+Normal: -1 6.38187e-007 -2.92696e-008
+UV: 0.374079 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 37.7191
+Normal: -1 6.33734e-007 -4.38084e-008
+UV: 0.342203 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 259.278 37.7191
+Normal: -1 4.58446e-007 -6.16096e-007
+UV: 0.342203 0.050687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 -10.9327
+Normal: 0 1 0
+UV: 0.603692 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 -10.9326
+Normal: 0 1 0
+UV: 0.603692 0.0147597
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 37.7191
+Normal: 0 1 0
+UV: 0.503668 0.174888
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0147 275.96 37.7191
+Normal: 0 1 0
+UV: 0.503667 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 -10.9327
+Normal: 1 3.23576e-007 0
+UV: 0.0818054 0.0147254
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 275.96 37.7191
+Normal: 1 2.67969e-007 6.55847e-008
+UV: 0.182076 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 244.944 21.7576
+Normal: 1 2.86424e-007 4.3819e-008
+UV: 0.150062 0.0828224
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 259.278 37.7191
+Normal: 1 -4.58446e-007 9.22345e-007
+UV: 0.182076 0.050687
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 244.944 21.7576
+Normal: -0.0995346 -0.74031 0.664856
+UV: 0.156154 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 38.0147 259.278 37.7191
+Normal: -0.0929184 -0.744545 0.661075
+UV: 0.156023 0.151498
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 250.267 25.8016
+Normal: -0.093485 -0.744184 0.6614
+UV: 0.156105 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 25.4349 255.869 32.4266
+Normal: -0.064628 -0.761964 0.644387
+UV: 0.156054 0.15159
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 244.664 21.4547
+Normal: 0.0675697 -0.883009 0.464467
+UV: 0.156156 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 244.664 19.1766
+Normal: 0.102526 -0.759851 0.641962
+UV: 0.156156 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -38.0148 244.944 21.7576
+Normal: 0.0937916 -0.795856 0.598178
+UV: 0.156154 0.152143
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -23.9252 250.267 25.8016
+Normal: 0.102599 -0.759534 0.642326
+UV: 0.156105 0.152038
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 -35.812
+Normal: 0 -1 0
+UV: 0.823052 0.0147604
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -39.5847 204.123 37.7191
+Normal: 0 -1 0
+UV: 0.983179 0.0147605
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -10.374 204.123 37.7191
+Normal: 0 -1 0
+UV: 0.983179 0.0714643
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -30.1371
+Normal: 1 3.39298e-007 0
+UV: 0.408545 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -11.672
+Normal: 1 9.9406e-008 0
+UV: 0.427203 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 275.232 -30.1371
+Normal: 1 2.39892e-007 0
+UV: 0.408545 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 275.232 -11.672
+Normal: 1 0 0
+UV: 0.427203 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -11.672
+Normal: 0 1 0
+UV: 0.605718 0.0537764
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -11.672
+Normal: 0 1 0
+UV: 0.605718 0.170606
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -30.1371
+Normal: 0 1 0
+UV: 0.641281 0.0537761
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -30.1371
+Normal: 0 1 0
+UV: 0.641281 0.170606
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 275.232 -11.672
+Normal: -1 0 0
+UV: 0.451182 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -11.672
+Normal: -1 0 0
+UV: 0.451182 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 275.232 -30.1371
+Normal: -1 0 0
+UV: 0.469841 0.642202
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -30.1371
+Normal: -1 0 0
+UV: 0.469841 0.656286
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -11.672
+Normal: 0.414312 7.9433e-007 0.910135
+UV: 0.604511 0.0521098
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -10.6902
+Normal: 0.414312 7.51683e-007 0.910135
+UV: 0.604511 0.0521098
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 275.232 -11.672
+Normal: 0.414314 5.14798e-007 0.910134
+UV: 0.604511 0.0521097
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 -10.6902
+Normal: 0.414315 4.31376e-007 0.910134
+UV: 0.604511 0.0521097
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -10.6902
+Normal: 3.5207e-007 0.5024 0.864635
+UV: 0.604511 0.05211
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -10.6902
+Normal: 3.27007e-007 0.502424 0.864621
+UV: 0.604511 0.0521099
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -11.672
+Normal: 3.50814e-007 0.502401 0.864635
+UV: 0.604511 0.05211
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 29.8791 284.386 -11.672
+Normal: 3.26675e-007 0.502424 0.864621
+UV: 0.604511 0.0521099
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 -10.6902
+Normal: -0.414316 0 0.910133
+UV: 0.604511 0.0521097
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -10.6902
+Normal: -0.414315 0 0.910134
+UV: 0.604511 0.0521098
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 275.232 -11.672
+Normal: -0.414316 0 0.910133
+UV: 0.604511 0.0521098
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -29.8791 284.386 -11.672
+Normal: -0.414315 0 0.910134
+UV: 0.604511 0.0521098
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+4 6 5
+6 7 5
+8 10 9
+10 11 9
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+20 22 21
+22 23 21
+24 26 25
+26 27 25
+28 30 29
+30 31 29
+32 34 33
+34 35 33
+36 38 37
+38 39 37
+40 42 41
+42 43 41
+44 46 45
+46 47 45
+48 50 49
+50 51 49
+52 54 53
+54 55 53
+56 58 57
+58 59 57
+60 62 61
+62 63 61
+64 66 65
+66 67 65
+68 70 69
+70 71 69
+48 49 72
+49 73 72
+55 74 53
+74 75 53
+59 76 57
+76 77 57
+78 80 79
+80 81 79
+82 84 83
+84 85 83
+86 88 87
+88 89 87
+90 92 91
+92 93 91
+94 96 95
+96 97 95
+98 100 99
+100 101 99
+102 104 103
+103 104 105
+105 104 106
+106 104 107
+108 110 109
+110 111 109
+112 114 113
+114 115 113
+116 118 117
+119 117 118
+120 122 121
+122 123 121
+124 126 125
+126 127 125
+128 130 129
+131 133 132
+134 136 135
+136 137 135
+138 140 139
+139 140 141
+142 143 140
+141 140 143
+144 146 145
+146 147 145
+148 150 149
+150 151 149
+152 154 153
+154 155 153
+156 158 157
+158 159 157
+160 162 161
+162 163 161
+164 166 165
+165 166 167
+168 170 169
+170 171 169
+172 174 173
+174 175 173
+176 178 177
+178 179 177
+180 182 181
+182 183 181
+184 186 185
+186 187 185
+188 190 189
+190 191 189
+192 194 193
+195 193 194
+119 118 196
+197 198 196
+196 198 119
+199 201 200
+201 202 200
+203 205 204
+205 206 204
+207 209 208
+209 210 208
+211 213 212
+213 214 212
+215 217 216
+217 218 216
+219 221 220
+221 222 220
+
+[BONE_HIERARCHY]
+
+[OFFSET_MATRIX]
+
+[ANIMATION_CLIPS]
+AnimationClip  
+{
+}
+[MESH_DATA]
+VertexCount: 20
+IndexCount: 30
+BoneCount: 0
+AnimationClips: 1
+
+[VERTEX_DATA]
+Position: -27.7224 282.696 30.5238
+Normal: -1 0 0
+UV: 0.408436 0.0835456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -30.1371
+Normal: -1 0 0
+UV: 0.46477 0.0835456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 30.5238
+Normal: -1 0 0
+UV: 0.408436 0.069462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 -30.1371
+Normal: -1 0 0
+UV: 0.46477 0.069462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 30.5238
+Normal: 4.4248e-007 0 1
+UV: 0.278334 0.0461037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 30.5238
+Normal: 4.42478e-007 0 1
+UV: 0.23999 0.0461037
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 30.5238
+Normal: 4.4248e-007 0 1
+UV: 0.278334 0.0512654
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 4.42478e-007 0 1
+UV: 0.23999 0.0512654
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -30.1371
+Normal: 1 2.5091e-007 0
+UV: 0.408436 0.0835456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 1 1.95551e-008 0
+UV: 0.46477 0.0835456
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 -30.1371
+Normal: 1 2.31355e-007 0
+UV: 0.408436 0.069462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 30.5238
+Normal: 1 0 0
+UV: 0.46477 0.069462
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -30.1371
+Normal: -2.94985e-007 -2.04443e-006 -1
+UV: 0.771558 0.0389192
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 275.232 -30.1371
+Normal: -2.69857e-007 -1.87027e-006 -1
+UV: 0.771558 0.0628443
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -30.1371
+Normal: -2.51285e-008 -1.74156e-007 -1
+UV: 0.713951 0.0389191
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 275.232 -30.1371
+Normal: 0 0 -1
+UV: 0.713951 0.0628442
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 30.5238
+Normal: 0 1 0
+UV: 0.622339 0.124342
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: 27.7224 282.696 -30.1371
+Normal: 0 1 0
+UV: 0.622339 0.0491245
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 30.5238
+Normal: 0 1 0
+UV: 0.547121 0.124342
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+Position: -27.7224 282.696 -30.1371
+Normal: 0 1 0
+UV: 0.547121 0.0491245
+BoneIndices: 0 0 0 0
+BoneWeights: 0 0 0 0
+
+
+[INDEX_DATA]
+0 2 1
+2 3 1
+4 6 5
+6 7 5
+8 10 9
+10 11 9
+12 14 13
+14 15 13
+16 18 17
+18 19 17
+
+[BONE_HIERARCHY]
+
+[OFFSET_MATRIX]
+
+[ANIMATION_CLIPS]
