@@ -6,4 +6,4 @@
     * 500마리 이상 접속 시에 접속이 다운되는 현상이 있었음(100% 모두 붙지 못함)   
   * 데이터베이스를 사용 했지만, 접속 시 로그인 인증과 소켓 종료 시에 HP, 위치 정도의 간단한 동기화
   * Lua 스크립트를 사용 했지만 당시에는 모든 몬스터가 행동, 대사 등이 모두 똑같아서 제대로 활용하지 못함
-* [포트폴리오](https://github.com/junhun0106/Cplusplus/blob/main/University/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%86%8C%EA%B0%9C%EC%84%9C_ver_4.pdf)에서 간략한 설명 포함
+* [포트폴리오 Simplest RPG Server](https://github.com/junhun0106/Cplusplus/blob/main/University/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%86%8C%EA%B0%9C%EC%84%9C_ver_4.pdf)에서 간략한 설명 포함
