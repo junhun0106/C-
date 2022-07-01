@@ -254,5 +254,7 @@ UpgradeLog*.htm
 *.bim.layout
 *.bim_*.settings
 
+*.bak
+
 # Microsoft Fakes
 FakesAssemblies/
